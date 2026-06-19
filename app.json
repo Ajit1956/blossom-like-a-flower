@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Blossom like a Flower",
+    "slug": "blossom-like-a-flower",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow Blossom like a Flower to access your camera to identify flowers and reveal their spiritual significance."
+        }
+      ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.workspace.blossomlikeaflower",
+      "supportsTablet": true
+    }
+  }
+}
