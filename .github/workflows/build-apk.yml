@@ -27,9 +27,6 @@ jobs:
       - name: 📦 Install Dependencies
         run: npm install
 
-      - name: 🏗️ Run Expo Prebuild
-        run: npx expo prebuild --platform android
-
       - name: 🔨 Compile Release APK
         run: |
           cd android
