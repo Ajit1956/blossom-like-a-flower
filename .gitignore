@@ -5,3 +5,8 @@ web-build/
 run-build.js
 .env*.local
 .env.local
+.gradle/
+android/.gradle/
+android/app/build/
+android/build/
+
