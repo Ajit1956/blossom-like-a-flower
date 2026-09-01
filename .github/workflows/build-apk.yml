@@ -36,14 +36,14 @@ jobs:
 
       - name: ⚙️ Adjust Android SDK compile target version
         run: |
-          sed -i 's/compileSdkVersion = 35/compileSdkVersion = 34/g' android/build.gradle || true
-          sed -i 's/buildToolsVersion = "35.0.0"/buildToolsVersion = "34.0.0"/g' android/build.gradle || true
+          sed -i "s/compileSdkVersion = 35/compileSdkVersion = 34/g" android/build.gradle || true
+          sed -i "s/35.0.0/34.0.0/g" android/build.gradle || true
 
       - name: 🔨 Compile Release APK
         run: |
           cd android
           chmod +x gradlew
-          ./gradlew assembleRelease --no-daemon
+          ./gradlew assembleRelease --no-daemon --stacktrace
 
       - name: 📤 Upload Standalone APK File
         uses: actions/upload-artifact@v4
