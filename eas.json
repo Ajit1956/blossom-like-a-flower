@@ -9,10 +9,10 @@
       "distribution": "internal"
     },
     "preview": {
+      "image": "latest",
       "distribution": "internal",
       "android": {
-        "buildType": "apk",
-        "gradleCommand": ":app:assembleRelease"
+        "buildType": "apk"
       }
     },
     "production": {}
