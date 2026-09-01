@@ -1,0 +1,2352 @@
+{
+  "total_distinct_names": 500,
+  "total_flowers": 907,
+  "indexed_flowers_count": 519,
+  "names": [
+    "African daisy",
+    "African iris",
+    "African marigold",
+    "African violet",
+    "Air plant",
+    "Alexandrian laurel",
+    "Alpine violet",
+    "Amaryllis",
+    "Angel's trumpet",
+    "Annatto",
+    "Annual phlox",
+    "Arabian jasmine",
+    "Areca nut palm",
+    "Asoka",
+    "Aubergine",
+    "Australian bottle plant",
+    "Australian chestnut",
+    "Australian gum",
+    "Awl tree",
+    "Azalea",
+    "Aztec marigold",
+    "Baby orchid",
+    "Baby's breath",
+    "Bachelor's button",
+    "Barbados lily",
+    "Barbados pride",
+    "Barberton daisy",
+    "Beauty of the night",
+    "Begonia",
+    "Bejuco de ajo",
+    "Betel palm",
+    "Betel-nut-palm",
+    "Big marigold",
+    "Bird of paradise",
+    "Bird's-eye bush",
+    "Bitterwood",
+    "Black bean",
+    "Black wattle",
+    "Black-eyed Susan vine",
+    "Blade apple",
+    "Blanket flower",
+    "Bleeding heart",
+    "Blood flower",
+    "Blood lily",
+    "Blue pea",
+    "Blue potato bush",
+    "Blue sage",
+    "Blue snakeweed",
+    "Bluewings",
+    "Boat lily",
+    "Bottlebrush",
+    "Bottlebrush bush",
+    "Bougainvillea",
+    "Bouncing Bet",
+    "Bower plant",
+    "Bowstring hemp",
+    "Brazilian gloxinia",
+    "Bridal bouquet",
+    "Bridal creeper",
+    "Brinjal",
+    "Brisbane lily",
+    "Broad path",
+    "Burning bush",
+    "Bush violet",
+    "Butterfly bush",
+    "Butterfly orchid",
+    "Butterfly tree",
+    "Cactus",
+    "Calabur",
+    "Calico flower",
+    "Caltrop",
+    "Campeachy",
+    "Candytuft",
+    "Canna lily",
+    "Cannonball tree",
+    "Canterbury bells",
+    "Cape leadwort",
+    "Caper tree",
+    "Capsicum",
+    "Carambola tree",
+    "Caricature plant",
+    "Carnation",
+    "Cat's claw",
+    "Cat's whiskers",
+    "Catechu",
+    "Cattleya orchid",
+    "Cayenne jasmine",
+    "Cayenne pepper",
+    "Chaff-flower",
+    "Chalice vine",
+    "Champaca",
+    "Chenille plant",
+    "Cherry-pie",
+    "Chili pepper",
+    "China aster",
+    "Chinese forget-me-not 'my sky blue five-lobed salverform flowers in terminal cymes",
+    "Chinese hibiscus",
+    "Chinese lantern",
+    "Chinese lavender",
+    "Chinese parsley",
+    "Chinese rice flower",
+    "Chinese spinach",
+    "Chinese wisteria",
+    "Chinese-lantern",
+    "Christ thorn",
+    "Christ vine",
+    "Christmas candle",
+    "Chrysanthemum",
+    "Climbing ilang-ilang",
+    "Clove pink",
+    "Clover",
+    "Coconut",
+    "Coffee",
+    "Coleus",
+    "Common allamanda",
+    "Common basil",
+    "Common brier",
+    "Common broom",
+    "Common camellia",
+    "Common cockscomb",
+    "Common cockscomb Dark red floral heads",
+    "Common cockscomb Green floral heads",
+    "Common cockscomb Yellow floral heads",
+    "Common foxglove",
+    "Common garden verbena",
+    "Common grape vine",
+    "Common hyacinth",
+    "Common laburnum",
+    "Common red ixora",
+    "Common zinnia",
+    "Confederate rose mallow",
+    "Copperleaf",
+    "Coral plant",
+    "Coriander",
+    "Cotton",
+    "Cotton rose",
+    "Country gooseberry",
+    "Cowslip creeper",
+    "Crane flower",
+    "Crape gardenia",
+    "Crape jasmine",
+    "Crape myrtle",
+    "Creeping daisy",
+    "Crinum lily",
+    "Croton",
+    "Crown beauty",
+    "Crown of thorns",
+    "Cup and saucer",
+    "Cup and saucer plant",
+    "Curtain creeper",
+    "Daffodil",
+    "Dahlberg daisy",
+    "Dahlia",
+    "Dendrobium orchid",
+    "Devil's weed",
+    "Dhak",
+    "Divi-divi",
+    "Dog brier",
+    "Dog rose",
+    "Dropseed",
+    "Drummond phlox",
+    "Dutch hyacinth",
+    "Dutchman's pipe",
+    "East Indian lotus",
+    "East Indian rosebay",
+    "Easter lily vine",
+    "Edelweiss",
+    "Egg-plant",
+    "Egyptian rose",
+    "Egyptian star-cluster",
+    "Elder",
+    "Elderberry",
+    "Emerald fern",
+    "Empress candle plant",
+    "English wallflower",
+    "Eucalyptus",
+    "European grape",
+    "Fairy lily",
+    "Fairy rose",
+    "False bird of paradise",
+    "False jalap",
+    "Fameflower",
+    "Farewell to spring",
+    "Feathered amaranth",
+    "Fiddle-wood",
+    "Finger-grass",
+    "Fire-dragon",
+    "Fire-dragon Long thin hard erect dull red catkins",
+    "Firecracker flower",
+    "Flag",
+    "Flamboyant",
+    "Flame flower",
+    "Flame of the forest",
+    "Flame tree",
+    "Flame vine",
+    "Flame violet",
+    "Flamingo flower",
+    "Fleur-de-lis",
+    "Flora's paintbrush",
+    "Florists' chrysanthemum",
+    "Florists' gloxinia",
+    "Florists' verbena",
+    "Flower in predominantly lavender shades",
+    "Flowering maple",
+    "Four-o'clock",
+    "Fragrant champaca",
+    "Frangipani",
+    "French marigold",
+    "Garden balsam",
+    "Garden gladiolus",
+    "Garden lupine",
+    "Garlic-vine",
+    "Geranium",
+    "Gingelly",
+    "Ginger lily",
+    "Globe amaranth",
+    "Glory bower",
+    "Glory tree",
+    "Gloxinia",
+    "Godetia",
+    "Golden everlasting",
+    "Golden fleece",
+    "Golden-shower tree",
+    "Goldenrod",
+    "Good-luck plant",
+    "Gout plant",
+    "Green ebony",
+    "Groundsel",
+    "Gum tree",
+    "Hawaiian good-luck plant",
+    "Hawaiian hibiscus",
+    "Hawthorn",
+    "Hearts ease",
+    "Heliotrope",
+    "Henna",
+    "Herald's trumpet",
+    "Holly",
+    "Hollyhock",
+    "Honey mesquite",
+    "Hoppers",
+    "Horse-tail creeper",
+    "Hyacinth",
+    "Hydrangea",
+    "Inch plant",
+    "Indian almond",
+    "Indian blanket",
+    "Indian cress",
+    "Indian laburnum",
+    "Indian laurel",
+    "Indian mallow",
+    "Indian mulberry",
+    "Indian oak",
+    "Indian red water lily",
+    "Indian root",
+    "Ironbark",
+    "Italian aster",
+    "Jacobs-coat",
+    "Jambu mawar",
+    "Japanese flowering cherry",
+    "Japanese snowball",
+    "Jasmine",
+    "Java glory bean",
+    "Javanese ixora",
+    "Jessamine",
+    "Jew's apple",
+    "Jewels of Opar",
+    "Joseph's coat",
+    "Joyweed",
+    "Jungle geranium",
+    "Kaffir lily",
+    "Kamani",
+    "Knight's star lily",
+    "Knights star lily",
+    "Knotted marjoram",
+    "Knotweed",
+    "Ladies' delight",
+    "Large-flowered magnolia",
+    "Laurelwood",
+    "Lead tree",
+    "Leaf cactus",
+    "Leather flower",
+    "Life plant",
+    "Lilac",
+    "Lily of the valley",
+    "Ling",
+    "Lipstick tree",
+    "Lobster claw",
+    "Logwood",
+    "Love-lies-bleeding",
+    "Madagascar periwinkle",
+    "Madar",
+    "Madonna lily",
+    "Madre de cacao",
+    "Malabar plum",
+    "Mango",
+    "Maple",
+    "Maple-leaved bayur",
+    "Margosa",
+    "Marguerite",
+    "Marigold",
+    "Marvel of Peru",
+    "Matal",
+    "Mealy sage",
+    "Mexican bush sage",
+    "Mexican shrimp plant",
+    "Mexican sunflower",
+    "Mignonette",
+    "Mignonette tree",
+    "Mimosa bush",
+    "Mistletoe",
+    "Monkey pod",
+    "Monkey-faced pansy",
+    "Moon cereus",
+    "Moon daisy",
+    "Moreton Bay chestnut",
+    "Morning glory",
+    "Moss rose",
+    "Moss verbena",
+    "Moth orchid",
+    "Mother-in-law's tongue",
+    "Mountain thistle",
+    "Mournful widow",
+    "Mudar",
+    "Mungo tree",
+    "Nap at noon",
+    "Nasturtium",
+    "Native hops",
+    "Neem",
+    "Nepal trumpet flower",
+    "Nerve plant",
+    "Nicaraguan cocoa-shade",
+    "Night-blooming cereus",
+    "Nittu tree",
+    "Old maid",
+    "Oleander",
+    "Orange jessamine",
+    "Orchid",
+    "Orchid tree",
+    "Orchids",
+    "Oriental cherry",
+    "Ox-eye daisy",
+    "Oyster plant",
+    "Painkiller",
+    "Painted nettle",
+    "Palas",
+    "Pandanus palm",
+    "Pansy",
+    "Paprika",
+    "Paradise flower",
+    "Parlor maple",
+    "Passion flower",
+    "Peacock flower",
+    "Pelican flower",
+    "Peony",
+    "Peregrina",
+    "Persian shield",
+    "Persian violet",
+    "Petunia",
+    "Philippine violet",
+    "Pincushion flower",
+    "Pink porcelain lily",
+    "Pinwheel flower",
+    "Polyantha rose",
+    "Pomegranate",
+    "Portia tree",
+    "Powderpuff",
+    "Powderpuff tree",
+    "Pride of India",
+    "Primrose",
+    "Pummelo",
+    "Purging cassia",
+    "Purple flowers",
+    "Pygmy rose",
+    "Pyinma",
+    "Queen's crape myrtle",
+    "Rain tree",
+    "Rainbow pink",
+    "Ramona",
+    "Rattlebox",
+    "Red pepper",
+    "Red powderpuff",
+    "Red-hot cattail",
+    "Resurrection lily",
+    "Rhododendron",
+    "Ringworm shrub",
+    "Rose",
+    "Rose apple",
+    "Rose of-China",
+    "Rose- of-China",
+    "Rose-of-",
+    "Rose-of- China",
+    "Rose-of-China",
+    "Rosebay",
+    "Royal poinciana",
+    "Sacred lotus",
+    "Sage",
+    "Saman",
+    "Scarlet flame bean",
+    "Scarlet orchid",
+    "Scarlet sage",
+    "Scotch broom",
+    "Scots heather",
+    "Sensitive plant",
+    "Sesame",
+    "Seven golden candlesticks",
+    "Shaddock",
+    "Shell ginger",
+    "Shrimp plant",
+    "Shrub verbena",
+    "Silk-cotton tree",
+    "Silver net plant",
+    "Slipper orchid",
+    "Smartweed",
+    "Snake plant",
+    "Snapdragon",
+    "Snapdragon Multicoloured flower",
+    "Snow creeper",
+    "Snowdrop",
+    "Soap-won",
+    "Sorrowless tree",
+    "Spanish cherry",
+    "Spanish flag",
+    "Spicy jatropha",
+    "Spider flower",
+    "Spider lily",
+    "Spider plant",
+    "Sprenger asparagus",
+    "Sprengeri",
+    "Spurred snapdragon",
+    "Star of Bethlehem",
+    "Star-cluster",
+    "Starfruit",
+    "Storksbill",
+    "Strawflower",
+    "Stringybark",
+    "Summer lilac",
+    "Summer snowflake",
+    "Summer torch",
+    "Sun hemp",
+    "Sunflower",
+    "Swallow wort",
+    "Sweet acacia Scented wattle",
+    "Sweet Alison",
+    "Sweet alyssum",
+    "Sweet marjoram",
+    "Sweet pea",
+    "Sweet reseda",
+    "Sweet scabius",
+    "Sweet wattle",
+    "Sweet William",
+    "Sword lily",
+    "Tail flower",
+    "Tampala",
+    "Tartogo",
+    "Teak",
+    "Temple tree",
+    "Terrestrial orchid",
+    "Thomas tree",
+    "Thorn",
+    "Thorn apple",
+    "Ti",
+    "Tickweed",
+    "Toadflax",
+    "Transvaal daisy",
+    "Tree cotton",
+    "Trefoil",
+    "Tropical almond",
+    "Trumpet bush",
+    "Tuberose",
+    "Turk's cap",
+    "Unicorn plant",
+    "Usambara violet",
+    "Vanda orchid",
+    "Vanilla orchid",
+    "Vasevine",
+    "Velvet flower",
+    "Virgin's bower",
+    "Wallflower",
+    "Wandering Jew",
+    "Water hyacinth",
+    "Water lily",
+    "Wax mallow",
+    "West Indian creeper",
+    "White flower",
+    "White flowers",
+    "White ixora",
+    "Wild ginger",
+    "Wild sage",
+    "Wine grape",
+    "Winter cherry",
+    "Winter daffodil",
+    "Wishbone flower",
+    "Wooden rose",
+    "Yellow flower",
+    "Yellow oleander",
+    "Youth-and-old-age",
+    "Zamang",
+    "Zedoary",
+    "Zephyr flower",
+    "Zitherwood"
+  ],
+  "name_to_flower_ids": {
+    "African daisy": [
+      "423"
+    ],
+    "African iris": [
+      "514"
+    ],
+    "African marigold": [
+      "398",
+      "402"
+    ],
+    "African violet": [
+      "738"
+    ],
+    "Air plant": [
+      "861"
+    ],
+    "Alexandrian laurel": [
+      "805"
+    ],
+    "Alpine violet": [
+      "858"
+    ],
+    "Amaryllis": [
+      "483",
+      "484",
+      "485",
+      "486",
+      "487",
+      "488",
+      "489",
+      "490",
+      "491"
+    ],
+    "Angel's trumpet": [
+      "195"
+    ],
+    "Annatto": [
+      "047"
+    ],
+    "Annual phlox": [
+      "259",
+      "263"
+    ],
+    "Arabian jasmine": [
+      "080"
+    ],
+    "Areca nut palm": [
+      "785"
+    ],
+    "Asoka": [
+      "333"
+    ],
+    "Aubergine": [
+      "409"
+    ],
+    "Australian bottle plant": [
+      "835"
+    ],
+    "Australian chestnut": [
+      "690"
+    ],
+    "Australian gum": [
+      "203"
+    ],
+    "Awl tree": [
+      "817"
+    ],
+    "Azalea": [
+      "513"
+    ],
+    "Aztec marigold": [
+      "398",
+      "402"
+    ],
+    "Baby orchid": [
+      "068"
+    ],
+    "Baby's breath": [
+      "519"
+    ],
+    "Bachelor's button": [
+      "505",
+      "507",
+      "508",
+      "509"
+    ],
+    "Barbados lily": [
+      "483",
+      "484",
+      "485",
+      "486",
+      "487",
+      "488",
+      "489",
+      "490",
+      "491"
+    ],
+    "Barbados pride": [
+      "716"
+    ],
+    "Barberton daisy": [
+      "423"
+    ],
+    "Beauty of the night": [
+      "018",
+      "019",
+      "021"
+    ],
+    "Begonia": [
+      "341",
+      "342",
+      "343",
+      "344",
+      "345",
+      "346",
+      "347",
+      "348"
+    ],
+    "Bejuco de ajo": [
+      "771"
+    ],
+    "Betel palm": [
+      "785"
+    ],
+    "Betel-nut-palm": [
+      "785"
+    ],
+    "Big marigold": [
+      "402"
+    ],
+    "Bird of paradise": [
+      "643"
+    ],
+    "Bird's-eye bush": [
+      "796"
+    ],
+    "Bitterwood": [
+      "875"
+    ],
+    "Black bean": [
+      "690"
+    ],
+    "Black wattle": [
+      "247"
+    ],
+    "Black-eyed Susan vine": [
+      "477"
+    ],
+    "Blade apple": [
+      "424"
+    ],
+    "Blanket flower": [
+      "052"
+    ],
+    "Bleeding heart": [
+      "163"
+    ],
+    "Blood flower": [
+      "687",
+      "688"
+    ],
+    "Blood lily": [
+      "637"
+    ],
+    "Blue pea": [
+      "889"
+    ],
+    "Blue potato bush": [
+      "158"
+    ],
+    "Blue sage": [
+      "679"
+    ],
+    "Blue snakeweed": [
+      "755"
+    ],
+    "Bluewings": [
+      "895"
+    ],
+    "Boat lily": [
+      "004"
+    ],
+    "Bottlebrush": [
+      "850"
+    ],
+    "Bottlebrush bush": [
+      "850"
+    ],
+    "Bougainvillea": [
+      "024",
+      "025",
+      "026",
+      "027",
+      "028",
+      "029",
+      "030",
+      "031",
+      "032",
+      "033",
+      "034"
+    ],
+    "Bouncing Bet": [
+      "143"
+    ],
+    "Bower plant": [
+      "768"
+    ],
+    "Bowstring hemp": [
+      "404",
+      "655",
+      "656"
+    ],
+    "Brazilian gloxinia": [
+      "186"
+    ],
+    "Bridal bouquet": [
+      "880"
+    ],
+    "Bridal creeper": [
+      "883"
+    ],
+    "Brinjal": [
+      "409"
+    ],
+    "Brisbane lily": [
+      "877"
+    ],
+    "Broad path": [
+      "510"
+    ],
+    "Burning bush": [
+      "776"
+    ],
+    "Bush violet": [
+      "735"
+    ],
+    "Butterfly bush": [
+      "531",
+      "830"
+    ],
+    "Butterfly orchid": [
+      "068"
+    ],
+    "Butterfly tree": [
+      "743"
+    ],
+    "Cactus": [
+      "561"
+    ],
+    "Calabur": [
+      "857"
+    ],
+    "Calico flower": [
+      "460"
+    ],
+    "Caltrop": [
+      "866"
+    ],
+    "Campeachy": [
+      "863"
+    ],
+    "Candytuft": [
+      "318"
+    ],
+    "Canna lily": [
+      "622",
+      "623",
+      "624",
+      "626",
+      "628",
+      "629",
+      "630",
+      "631"
+    ],
+    "Cannonball tree": [
+      "559"
+    ],
+    "Canterbury bells": [
+      "332",
+      "769"
+    ],
+    "Cape leadwort": [
+      "005",
+      "898"
+    ],
+    "Caper tree": [
+      "684"
+    ],
+    "Capsicum": [
+      "797"
+    ],
+    "Carambola tree": [
+      "272"
+    ],
+    "Caricature plant": [
+      "788"
+    ],
+    "Carnation": [
+      "276"
+    ],
+    "Cat's claw": [
+      "633"
+    ],
+    "Cat's whiskers": [
+      "650",
+      "651"
+    ],
+    "Catechu": [
+      "785"
+    ],
+    "Cattleya orchid": [
+      "072"
+    ],
+    "Cayenne jasmine": [
+      "283",
+      "289"
+    ],
+    "Cayenne pepper": [
+      "797"
+    ],
+    "Chaff-flower": [
+      "510"
+    ],
+    "Chalice vine": [
+      "421"
+    ],
+    "Champaca": [
+      "013"
+    ],
+    "Chenille plant": [
+      "224"
+    ],
+    "Cherry-pie": [
+      "733"
+    ],
+    "Chili pepper": [
+      "797"
+    ],
+    "China aster": [
+      "293",
+      "295",
+      "297",
+      "298",
+      "300"
+    ],
+    "Chinese forget-me-not 'my sky blue five-lobed salverform flowers in terminal cymes": [
+      "164"
+    ],
+    "Chinese hibiscus": [
+      "569",
+      "575",
+      "576",
+      "577",
+      "578",
+      "586",
+      "587",
+      "588",
+      "589",
+      "592",
+      "593",
+      "596",
+      "599",
+      "600",
+      "601",
+      "602",
+      "604",
+      "605",
+      "606",
+      "607",
+      "608",
+      "609",
+      "610",
+      "611",
+      "612",
+      "613",
+      "614",
+      "615",
+      "616",
+      "617",
+      "618",
+      "620"
+    ],
+    "Chinese lantern": [
+      "036",
+      "037"
+    ],
+    "Chinese lavender": [
+      "281"
+    ],
+    "Chinese parsley": [
+      "534"
+    ],
+    "Chinese rice flower": [
+      "705"
+    ],
+    "Chinese spinach": [
+      "406"
+    ],
+    "Chinese wisteria": [
+      "529"
+    ],
+    "Chinese-lantern": [
+      "859"
+    ],
+    "Christ thorn": [
+      "190"
+    ],
+    "Christ vine": [
+      "880"
+    ],
+    "Christmas candle": [
+      "715"
+    ],
+    "Chrysanthemum": [
+      "394"
+    ],
+    "Climbing ilang-ilang": [
+      "673"
+    ],
+    "Clove pink": [
+      "276"
+    ],
+    "Clover": [
+      "845"
+    ],
+    "Coconut": [
+      "855"
+    ],
+    "Coffee": [
+      "111"
+    ],
+    "Coleus": [
+      "754"
+    ],
+    "Common allamanda": [
+      "496"
+    ],
+    "Common basil": [
+      "208"
+    ],
+    "Common brier": [
+      "106"
+    ],
+    "Common broom": [
+      "713"
+    ],
+    "Common camellia": [
+      "512"
+    ],
+    "Common cockscomb": [
+      "411",
+      "415"
+    ],
+    "Common cockscomb Dark red floral heads": [
+      "414"
+    ],
+    "Common cockscomb Green floral heads": [
+      "412"
+    ],
+    "Common cockscomb Yellow floral heads": [
+      "413"
+    ],
+    "Common foxglove": [
+      "214"
+    ],
+    "Common garden verbena": [
+      "215",
+      "217",
+      "220"
+    ],
+    "Common grape vine": [
+      "006"
+    ],
+    "Common hyacinth": [
+      "518"
+    ],
+    "Common laburnum": [
+      "046"
+    ],
+    "Common red ixora": [
+      "129"
+    ],
+    "Common zinnia": [
+      "228",
+      "230",
+      "233",
+      "234",
+      "238"
+    ],
+    "Confederate rose mallow": [
+      "566",
+      "579"
+    ],
+    "Copperleaf": [
+      "222",
+      "223",
+      "225"
+    ],
+    "Coral plant": [
+      "867"
+    ],
+    "Coriander": [
+      "534"
+    ],
+    "Cotton": [
+      "876"
+    ],
+    "Cotton rose": [
+      "566",
+      "579"
+    ],
+    "Country gooseberry": [
+      "201"
+    ],
+    "Cowslip creeper": [
+      "786"
+    ],
+    "Crane flower": [
+      "643"
+    ],
+    "Crape gardenia": [
+      "698",
+      "699",
+      "700"
+    ],
+    "Crape jasmine": [
+      "698",
+      "699",
+      "700"
+    ],
+    "Crape myrtle": [
+      "083"
+    ],
+    "Creeping daisy": [
+      "243",
+      "313"
+    ],
+    "Crinum lily": [
+      "250",
+      "320"
+    ],
+    "Croton": [
+      "783"
+    ],
+    "Crown beauty": [
+      "479"
+    ],
+    "Crown of thorns": [
+      "190"
+    ],
+    "Cup and saucer": [
+      "332"
+    ],
+    "Cup and saucer plant": [
+      "710"
+    ],
+    "Curtain creeper": [
+      "123"
+    ],
+    "Daffodil": [
+      "516"
+    ],
+    "Dahlberg daisy": [
+      "692"
+    ],
+    "Dahlia": [
+      "053",
+      "541",
+      "543",
+      "544",
+      "545",
+      "546",
+      "547",
+      "791",
+      "792",
+      "793",
+      "794"
+    ],
+    "Dendrobium orchid": [
+      "070"
+    ],
+    "Devil's weed": [
+      "866"
+    ],
+    "Dhak": [
+      "636"
+    ],
+    "Divi-divi": [
+      "452"
+    ],
+    "Dog brier": [
+      "106"
+    ],
+    "Dog rose": [
+      "106"
+    ],
+    "Dropseed": [
+      "315"
+    ],
+    "Drummond phlox": [
+      "259",
+      "263"
+    ],
+    "Dutch hyacinth": [
+      "518"
+    ],
+    "Dutchman's pipe": [
+      "461"
+    ],
+    "East Indian lotus": [
+      "001",
+      "002"
+    ],
+    "East Indian rosebay": [
+      "698",
+      "699",
+      "700"
+    ],
+    "Easter lily vine": [
+      "202"
+    ],
+    "Edelweiss": [
+      "653"
+    ],
+    "Egg-plant": [
+      "409"
+    ],
+    "Egyptian rose": [
+      "023"
+    ],
+    "Egyptian star-cluster": [
+      "472",
+      "473",
+      "474",
+      "475"
+    ],
+    "Elder": [
+      "538"
+    ],
+    "Elderberry": [
+      "538"
+    ],
+    "Emerald fern": [
+      "425"
+    ],
+    "Empress candle plant": [
+      "715"
+    ],
+    "English wallflower": [
+      "331"
+    ],
+    "Eucalyptus": [
+      "203"
+    ],
+    "European grape": [
+      "006"
+    ],
+    "Fairy lily": [
+      "131"
+    ],
+    "Fairy rose": [
+      "097"
+    ],
+    "False bird of paradise": [
+      "864"
+    ],
+    "False jalap": [
+      "018",
+      "019",
+      "020",
+      "021"
+    ],
+    "Fameflower": [
+      "789"
+    ],
+    "Farewell to spring": [
+      "161"
+    ],
+    "Feathered amaranth": [
+      "434",
+      "435",
+      "501",
+      "502",
+      "503",
+      "504",
+      "753"
+    ],
+    "Fiddle-wood": [
+      "648"
+    ],
+    "Finger-grass": [
+      "113"
+    ],
+    "Fire-dragon": [
+      "222",
+      "223"
+    ],
+    "Fire-dragon Long thin hard erect dull red catkins": [
+      "225"
+    ],
+    "Firecracker flower": [
+      "837"
+    ],
+    "Flag": [
+      "515"
+    ],
+    "Flamboyant": [
+      "494"
+    ],
+    "Flame flower": [
+      "642"
+    ],
+    "Flame of the forest": [
+      "636"
+    ],
+    "Flame tree": [
+      "494"
+    ],
+    "Flame vine": [
+      "642"
+    ],
+    "Flame violet": [
+      "779"
+    ],
+    "Flamingo flower": [
+      "820"
+    ],
+    "Fleur-de-lis": [
+      "515"
+    ],
+    "Flora's paintbrush": [
+      "445"
+    ],
+    "Florists' chrysanthemum": [
+      "389",
+      "390",
+      "391",
+      "392",
+      "393"
+    ],
+    "Florists' gloxinia": [
+      "186",
+      "188",
+      "349"
+    ],
+    "Florists' verbena": [
+      "215"
+    ],
+    "Flower in predominantly lavender shades": [
+      "076"
+    ],
+    "Flowering maple": [
+      "036",
+      "037"
+    ],
+    "Four-o'clock": [
+      "018",
+      "019",
+      "020",
+      "021"
+    ],
+    "Fragrant champaca": [
+      "013"
+    ],
+    "Frangipani": [
+      "664",
+      "665",
+      "666",
+      "667"
+    ],
+    "French marigold": [
+      "401"
+    ],
+    "Garden balsam": [
+      "357",
+      "358",
+      "362",
+      "363"
+    ],
+    "Garden gladiolus": [
+      "177",
+      "178",
+      "179",
+      "180",
+      "181a",
+      "181b",
+      "182",
+      "183",
+      "184",
+      "185"
+    ],
+    "Garden lupine": [
+      "115"
+    ],
+    "Garlic-vine": [
+      "771"
+    ],
+    "Geranium": [
+      "654"
+    ],
+    "Gingelly": [
+      "355"
+    ],
+    "Ginger lily": [
+      "003"
+    ],
+    "Globe amaranth": [
+      "505",
+      "506",
+      "507",
+      "508",
+      "509"
+    ],
+    "Glory bower": [
+      "806"
+    ],
+    "Glory tree": [
+      "806"
+    ],
+    "Gloxinia": [
+      "186"
+    ],
+    "Godetia": [
+      "161"
+    ],
+    "Golden everlasting": [
+      "638"
+    ],
+    "Golden fleece": [
+      "692"
+    ],
+    "Golden-shower tree": [
+      "712"
+    ],
+    "Goldenrod": [
+      "696"
+    ],
+    "Good-luck plant": [
+      "114"
+    ],
+    "Gout plant": [
+      "835"
+    ],
+    "Green ebony": [
+      "734"
+    ],
+    "Groundsel": [
+      "443"
+    ],
+    "Gum tree": [
+      "203"
+    ],
+    "Hawaiian good-luck plant": [
+      "114"
+    ],
+    "Hawaiian hibiscus": [
+      "569",
+      "575",
+      "576",
+      "577",
+      "578",
+      "586",
+      "587",
+      "588",
+      "589",
+      "592",
+      "593",
+      "596",
+      "599",
+      "600",
+      "601",
+      "602",
+      "604",
+      "605",
+      "606",
+      "607",
+      "608",
+      "609",
+      "610",
+      "611",
+      "612",
+      "613",
+      "614",
+      "615",
+      "616",
+      "617",
+      "618",
+      "620"
+    ],
+    "Hawthorn": [
+      "312"
+    ],
+    "Hearts ease": [
+      "723"
+    ],
+    "Heliotrope": [
+      "733"
+    ],
+    "Henna": [
+      "396"
+    ],
+    "Herald's trumpet": [
+      "202"
+    ],
+    "Holly": [
+      "338"
+    ],
+    "Hollyhock": [
+      "145",
+      "146",
+      "147",
+      "148",
+      "149",
+      "150",
+      "151",
+      "152",
+      "153",
+      "154",
+      "155"
+    ],
+    "Honey mesquite": [
+      "720"
+    ],
+    "Hoppers": [
+      "861"
+    ],
+    "Horse-tail creeper": [
+      "883"
+    ],
+    "Hyacinth": [
+      "518"
+    ],
+    "Hydrangea": [
+      "354"
+    ],
+    "Inch plant": [
+      "751"
+    ],
+    "Indian almond": [
+      "644"
+    ],
+    "Indian blanket": [
+      "051",
+      "052"
+    ],
+    "Indian cress": [
+      "039",
+      "040",
+      "042a",
+      "042b"
+    ],
+    "Indian laburnum": [
+      "712"
+    ],
+    "Indian laurel": [
+      "805"
+    ],
+    "Indian mallow": [
+      "036",
+      "037"
+    ],
+    "Indian mulberry": [
+      "817"
+    ],
+    "Indian oak": [
+      "197"
+    ],
+    "Indian red water lily": [
+      "553"
+    ],
+    "Indian root": [
+      "687",
+      "688"
+    ],
+    "Ironbark": [
+      "203"
+    ],
+    "Italian aster": [
+      "291",
+      "292"
+    ],
+    "Jacobs-coat": [
+      "222",
+      "223",
+      "225"
+    ],
+    "Jambu mawar": [
+      "450"
+    ],
+    "Japanese flowering cherry": [
+      "520"
+    ],
+    "Japanese snowball": [
+      "311"
+    ],
+    "Jasmine": [
+      "302",
+      "303"
+    ],
+    "Java glory bean": [
+      "369"
+    ],
+    "Javanese ixora": [
+      "129"
+    ],
+    "Jessamine": [
+      "302",
+      "303"
+    ],
+    "Jew's apple": [
+      "409"
+    ],
+    "Jewels of Opar": [
+      "789"
+    ],
+    "Joseph's coat": [
+      "510"
+    ],
+    "Joyweed": [
+      "510"
+    ],
+    "Jungle geranium": [
+      "127"
+    ],
+    "Kaffir lily": [
+      "482"
+    ],
+    "Kamani": [
+      "644"
+    ],
+    "Knight's star lily": [
+      "483",
+      "484",
+      "485",
+      "486",
+      "487",
+      "488",
+      "489",
+      "490"
+    ],
+    "Knights star lily": [
+      "491"
+    ],
+    "Knotted marjoram": [
+      "492"
+    ],
+    "Knotweed": [
+      "760"
+    ],
+    "Ladies' delight": [
+      "723"
+    ],
+    "Large-flowered magnolia": [
+      "417"
+    ],
+    "Laurelwood": [
+      "805"
+    ],
+    "Lead tree": [
+      "451"
+    ],
+    "Leaf cactus": [
+      "424"
+    ],
+    "Leather flower": [
+      "419"
+    ],
+    "Life plant": [
+      "861"
+    ],
+    "Lilac": [
+      "530"
+    ],
+    "Lily of the valley": [
+      "307"
+    ],
+    "Ling": [
+      "843"
+    ],
+    "Lipstick tree": [
+      "047"
+    ],
+    "Lobster claw": [
+      "864"
+    ],
+    "Logwood": [
+      "863"
+    ],
+    "Love-lies-bleeding": [
+      "752"
+    ],
+    "Madagascar periwinkle": [
+      "283",
+      "284",
+      "289"
+    ],
+    "Madar": [
+      "404"
+    ],
+    "Madonna lily": [
+      "306"
+    ],
+    "Madre de cacao": [
+      "532"
+    ],
+    "Malabar plum": [
+      "450"
+    ],
+    "Mango": [
+      "847"
+    ],
+    "Maple": [
+      "120"
+    ],
+    "Maple-leaved bayur": [
+      "640"
+    ],
+    "Margosa": [
+      "649"
+    ],
+    "Marguerite": [
+      "848"
+    ],
+    "Marigold": [
+      "397"
+    ],
+    "Marvel of Peru": [
+      "018",
+      "019",
+      "020",
+      "021"
+    ],
+    "Matal": [
+      "687",
+      "688"
+    ],
+    "Mealy sage": [
+      "886"
+    ],
+    "Mexican bush sage": [
+      "646"
+    ],
+    "Mexican shrimp plant": [
+      "662"
+    ],
+    "Mexican sunflower": [
+      "557"
+    ],
+    "Mignonette": [
+      "339"
+    ],
+    "Mignonette tree": [
+      "396"
+    ],
+    "Mimosa bush": [
+      "453"
+    ],
+    "Mistletoe": [
+      "035"
+    ],
+    "Monkey pod": [
+      "455"
+    ],
+    "Monkey-faced pansy": [
+      "745"
+    ],
+    "Moon cereus": [
+      "563"
+    ],
+    "Moon daisy": [
+      "848"
+    ],
+    "Moreton Bay chestnut": [
+      "690"
+    ],
+    "Morning glory": [
+      "522",
+      "842"
+    ],
+    "Moss rose": [
+      "014"
+    ],
+    "Moss verbena": [
+      "780",
+      "781",
+      "782"
+    ],
+    "Moth orchid": [
+      "071"
+    ],
+    "Mother-in-law's tongue": [
+      "656"
+    ],
+    "Mountain thistle": [
+      "773"
+    ],
+    "Mournful widow": [
+      "022",
+      "023"
+    ],
+    "Mudar": [
+      "404"
+    ],
+    "Mungo tree": [
+      "439"
+    ],
+    "Nap at noon": [
+      "314"
+    ],
+    "Nasturtium": [
+      "039",
+      "040",
+      "042a",
+      "042b"
+    ],
+    "Native hops": [
+      "868"
+    ],
+    "Neem": [
+      "649"
+    ],
+    "Nepal trumpet flower": [
+      "202"
+    ],
+    "Nerve plant": [
+      "212"
+    ],
+    "Nicaraguan cocoa-shade": [
+      "532"
+    ],
+    "Night-blooming cereus": [
+      "563"
+    ],
+    "Nittu tree": [
+      "439"
+    ],
+    "Old maid": [
+      "283",
+      "289"
+    ],
+    "Oleander": [
+      "725",
+      "726",
+      "728",
+      "729"
+    ],
+    "Orange jessamine": [
+      "744"
+    ],
+    "Orchid": [
+      "059",
+      "060",
+      "061",
+      "062",
+      "063",
+      "067",
+      "069"
+    ],
+    "Orchid tree": [
+      "743"
+    ],
+    "Orchids": [
+      "058"
+    ],
+    "Oriental cherry": [
+      "520"
+    ],
+    "Ox-eye daisy": [
+      "848"
+    ],
+    "Oyster plant": [
+      "004"
+    ],
+    "Painkiller": [
+      "817"
+    ],
+    "Painted nettle": [
+      "754"
+    ],
+    "Palas": [
+      "636"
+    ],
+    "Pandanus palm": [
+      "657"
+    ],
+    "Pansy": [
+      "723"
+    ],
+    "Paprika": [
+      "797"
+    ],
+    "Paradise flower": [
+      "716"
+    ],
+    "Parlor maple": [
+      "036",
+      "037"
+    ],
+    "Passion flower": [
+      "252",
+      "321"
+    ],
+    "Peacock flower": [
+      "494"
+    ],
+    "Pelican flower": [
+      "461"
+    ],
+    "Peony": [
+      "526"
+    ],
+    "Peregrina": [
+      "853"
+    ],
+    "Persian shield": [
+      "241"
+    ],
+    "Persian violet": [
+      "858"
+    ],
+    "Petunia": [
+      "373",
+      "374",
+      "375",
+      "376",
+      "377",
+      "378a",
+      "378b",
+      "381",
+      "382",
+      "385",
+      "386",
+      "387",
+      "388"
+    ],
+    "Philippine violet": [
+      "168",
+      "170",
+      "766"
+    ],
+    "Pincushion flower": [
+      "023"
+    ],
+    "Pink porcelain lily": [
+      "436"
+    ],
+    "Pinwheel flower": [
+      "698",
+      "699",
+      "700"
+    ],
+    "Polyantha rose": [
+      "108"
+    ],
+    "Pomegranate": [
+      "007",
+      "008",
+      "009"
+    ],
+    "Portia tree": [
+      "827"
+    ],
+    "Powderpuff": [
+      "456"
+    ],
+    "Powderpuff tree": [
+      "456"
+    ],
+    "Pride of India": [
+      "086"
+    ],
+    "Primrose": [
+      "856"
+    ],
+    "Pummelo": [
+      "205"
+    ],
+    "Purging cassia": [
+      "712"
+    ],
+    "Purple flowers": [
+      "199"
+    ],
+    "Pygmy rose": [
+      "097"
+    ],
+    "Pyinma": [
+      "086"
+    ],
+    "Queen's crape myrtle": [
+      "086"
+    ],
+    "Rain tree": [
+      "455"
+    ],
+    "Rainbow pink": [
+      "277"
+    ],
+    "Ramona": [
+      "645"
+    ],
+    "Rattlebox": [
+      "787"
+    ],
+    "Red pepper": [
+      "797"
+    ],
+    "Red powderpuff": [
+      "458"
+    ],
+    "Red-hot cattail": [
+      "224"
+    ],
+    "Resurrection lily": [
+      "739"
+    ],
+    "Rhododendron": [
+      "513"
+    ],
+    "Ringworm shrub": [
+      "715"
+    ],
+    "Rose": [
+      "087",
+      "089",
+      "096",
+      "104",
+      "109"
+    ],
+    "Rose apple": [
+      "450"
+    ],
+    "Rose of-China": [
+      "602"
+    ],
+    "Rose- of-China": [
+      "569",
+      "575",
+      "577",
+      "586",
+      "587",
+      "592",
+      "593",
+      "596",
+      "599",
+      "600",
+      "604",
+      "605",
+      "606",
+      "607",
+      "608",
+      "609",
+      "610",
+      "611",
+      "614",
+      "615",
+      "616",
+      "617",
+      "618"
+    ],
+    "Rose-of-": [
+      "576"
+    ],
+    "Rose-of- China": [
+      "578"
+    ],
+    "Rose-of-China": [
+      "588",
+      "589",
+      "612",
+      "613"
+    ],
+    "Rosebay": [
+      "725",
+      "726",
+      "728",
+      "729"
+    ],
+    "Royal poinciana": [
+      "494"
+    ],
+    "Sacred lotus": [
+      "001",
+      "002"
+    ],
+    "Sage": [
+      "645"
+    ],
+    "Saman": [
+      "455"
+    ],
+    "Scarlet flame bean": [
+      "011"
+    ],
+    "Scarlet orchid": [
+      "068"
+    ],
+    "Scarlet sage": [
+      "647"
+    ],
+    "Scotch broom": [
+      "713"
+    ],
+    "Scots heather": [
+      "843"
+    ],
+    "Sensitive plant": [
+      "790"
+    ],
+    "Sesame": [
+      "355"
+    ],
+    "Seven golden candlesticks": [
+      "715"
+    ],
+    "Shaddock": [
+      "205"
+    ],
+    "Shell ginger": [
+      "436"
+    ],
+    "Shrimp plant": [
+      "662"
+    ],
+    "Shrub verbena": [
+      "813",
+      "814",
+      "815"
+    ],
+    "Silk-cotton tree": [
+      "639"
+    ],
+    "Silver net plant": [
+      "212"
+    ],
+    "Slipper orchid": [
+      "074"
+    ],
+    "Smartweed": [
+      "760"
+    ],
+    "Snake plant": [
+      "655",
+      "656"
+    ],
+    "Snapdragon": [
+      "426",
+      "427",
+      "428",
+      "429",
+      "430"
+    ],
+    "Snapdragon Multicoloured flower": [
+      "432a",
+      "432b"
+    ],
+    "Snow creeper": [
+      "883"
+    ],
+    "Snowdrop": [
+      "044"
+    ],
+    "Soap-won": [
+      "143"
+    ],
+    "Sorrowless tree": [
+      "333"
+    ],
+    "Spanish cherry": [
+      "245"
+    ],
+    "Spanish flag": [
+      "282"
+    ],
+    "Spicy jatropha": [
+      "853"
+    ],
+    "Spider flower": [
+      "119"
+    ],
+    "Spider lily": [
+      "479"
+    ],
+    "Spider plant": [
+      "119"
+    ],
+    "Sprenger asparagus": [
+      "425"
+    ],
+    "Sprengeri": [
+      "425"
+    ],
+    "Spurred snapdragon": [
+      "323"
+    ],
+    "Star of Bethlehem": [
+      "314"
+    ],
+    "Star-cluster": [
+      "472",
+      "473",
+      "474",
+      "475"
+    ],
+    "Starfruit": [
+      "272"
+    ],
+    "Storksbill": [
+      "654"
+    ],
+    "Strawflower": [
+      "638"
+    ],
+    "Stringybark": [
+      "203"
+    ],
+    "Summer lilac": [
+      "531"
+    ],
+    "Summer snowflake": [
+      "314"
+    ],
+    "Summer torch": [
+      "206"
+    ],
+    "Sun hemp": [
+      "703"
+    ],
+    "Sunflower": [
+      "464",
+      "465",
+      "466",
+      "635"
+    ],
+    "Swallow wort": [
+      "687",
+      "688"
+    ],
+    "Sweet acacia Scented wattle": [
+      "453"
+    ],
+    "Sweet Alison": [
+      "337"
+    ],
+    "Sweet alyssum": [
+      "337"
+    ],
+    "Sweet marjoram": [
+      "492"
+    ],
+    "Sweet pea": [
+      "334",
+      "335"
+    ],
+    "Sweet reseda": [
+      "339"
+    ],
+    "Sweet scabius": [
+      "022",
+      "023"
+    ],
+    "Sweet wattle": [
+      "453"
+    ],
+    "Sweet William": [
+      "278"
+    ],
+    "Sword lily": [
+      "515"
+    ],
+    "Tail flower": [
+      "820"
+    ],
+    "Tampala": [
+      "406"
+    ],
+    "Tartogo": [
+      "835"
+    ],
+    "Teak": [
+      "197"
+    ],
+    "Temple tree": [
+      "664",
+      "665",
+      "666",
+      "667"
+    ],
+    "Terrestrial orchid": [
+      "067"
+    ],
+    "Thomas tree": [
+      "878"
+    ],
+    "Thorn": [
+      "312"
+    ],
+    "Thorn apple": [
+      "191",
+      "194",
+      "312"
+    ],
+    "Ti": [
+      "114"
+    ],
+    "Tickweed": [
+      "249"
+    ],
+    "Toadflax": [
+      "323"
+    ],
+    "Transvaal daisy": [
+      "423"
+    ],
+    "Tree cotton": [
+      "758"
+    ],
+    "Trefoil": [
+      "845"
+    ],
+    "Tropical almond": [
+      "644"
+    ],
+    "Trumpet bush": [
+      "680"
+    ],
+    "Tuberose": [
+      "049"
+    ],
+    "Turk's cap": [
+      "016",
+      "017"
+    ],
+    "Unicorn plant": [
+      "213"
+    ],
+    "Usambara violet": [
+      "738"
+    ],
+    "Vanda orchid": [
+      "073"
+    ],
+    "Vanilla orchid": [
+      "065"
+    ],
+    "Vasevine": [
+      "419"
+    ],
+    "Velvet flower": [
+      "752"
+    ],
+    "Virgin's bower": [
+      "419"
+    ],
+    "Wallflower": [
+      "331"
+    ],
+    "Wandering Jew": [
+      "751"
+    ],
+    "Water hyacinth": [
+      "894"
+    ],
+    "Water lily": [
+      "548",
+      "549",
+      "550",
+      "551a",
+      "551b",
+      "552",
+      "553",
+      "554",
+      "555",
+      "556"
+    ],
+    "Wax mallow": [
+      "015"
+    ],
+    "West Indian creeper": [
+      "243"
+    ],
+    "White flower": [
+      "077",
+      "269",
+      "353"
+    ],
+    "White flowers": [
+      "200"
+    ],
+    "White ixora": [
+      "811"
+    ],
+    "Wild ginger": [
+      "462",
+      "463"
+    ],
+    "Wild sage": [
+      "707"
+    ],
+    "Wine grape": [
+      "006"
+    ],
+    "Winter cherry": [
+      "859"
+    ],
+    "Winter daffodil": [
+      "135"
+    ],
+    "Wishbone flower": [
+      "895"
+    ],
+    "Wooden rose": [
+      "012",
+      "327"
+    ],
+    "Yellow flower": [
+      "824"
+    ],
+    "Yellow oleander": [
+      "689"
+    ],
+    "Youth-and-old-age": [
+      "228",
+      "230",
+      "233",
+      "234",
+      "238"
+    ],
+    "Zamang": [
+      "455"
+    ],
+    "Zedoary": [
+      "319"
+    ],
+    "Zephyr flower": [
+      "130",
+      "131",
+      "132",
+      "133"
+    ],
+    "Zitherwood": [
+      "648"
+    ]
+  }
+}

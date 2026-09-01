@@ -1,0 +1,387 @@
+[
+  {
+    "Category": "Vegetable",
+    "Flower ID": "409",
+    "Botanical Name": "Solanum melongena L.",
+    "Common / Edible Crop Name": "Brinjal / Eggplant / Baingan",
+    "Official Mother's Significance": "Fearlessness in the vital"
+  },
+  {
+    "Category": "Vegetable",
+    "Flower ID": "405",
+    "Botanical Name": "Solanum melongena L. var. insanvm",
+    "Common / Edible Crop Name": "Wild Brinjal / Jangli Baingan",
+    "Official Mother's Significance": "Vital courage"
+  },
+  {
+    "Category": "Vegetable",
+    "Flower ID": "691",
+    "Botanical Name": "Luffa acutangula (L.) Roxb.",
+    "Common / Edible Crop Name": "Ridge Gourd / Turai",
+    "Official Mother's Significance": "Kind mind"
+  },
+  {
+    "Category": "Vegetable",
+    "Flower ID": "336",
+    "Botanical Name": "Momordica charantia L.",
+    "Common / Edible Crop Name": "Bitter Gourd / Karela",
+    "Official Mother's Significance": "Sweetness"
+  },
+  {
+    "Category": "Vegetable",
+    "Flower ID": "854",
+    "Botanical Name": "Cucurbita maxima Duchesne",
+    "Common / Edible Crop Name": "Pumpkin / Kaddu",
+    "Official Mother's Significance": "Abundance"
+  },
+  {
+    "Category": "Vegetable",
+    "Flower ID": "797",
+    "Botanical Name": "Capsicum annuum L.",
+    "Common / Edible Crop Name": "Chilli Pepper / Mirch",
+    "Official Mother's Significance": "A whipping"
+  },
+  {
+    "Category": "Vegetable",
+    "Flower ID": "825",
+    "Botanical Name": "Moringa oleifera Lam.",
+    "Common / Edible Crop Name": "Drumstick / Moringa / Sahjan",
+    "Official Mother's Significance": "Hygienic organisation"
+  },
+  {
+    "Category": "Vegetable",
+    "Flower ID": "406",
+    "Botanical Name": "Amaranthus tricolor L.",
+    "Common / Edible Crop Name": "Chinese Spinach / Chowlai",
+    "Official Mother's Significance": "Bravery"
+  },
+  {
+    "Category": "Vegetable",
+    "Flower ID": "334",
+    "Botanical Name": "Lathyrus odoratus L.",
+    "Common / Edible Crop Name": "Sweet Pea / Field Pea",
+    "Official Mother's Significance": "Gentleness"
+  },
+  {
+    "Category": "Vegetable",
+    "Flower ID": "369",
+    "Botanical Name": "Phaseolus vulgaris L. / Clerodendrum",
+    "Common / Edible Crop Name": "Garden Bean / Sem",
+    "Official Mother's Significance": "Aspiration for right attitude"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "534",
+    "Botanical Name": "Coriandrum sativum L.",
+    "Common / Edible Crop Name": "Coriander / Dhaniya",
+    "Official Mother's Significance": "Delicacy"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "807",
+    "Botanical Name": "Foeniculum vulgare Mill.",
+    "Common / Edible Crop Name": "Fennel / Saunf",
+    "Official Mother's Significance": "Light in the blood"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "355",
+    "Botanical Name": "Sesamum indicum L.",
+    "Common / Edible Crop Name": "Sesame / Til",
+    "Official Mother's Significance": "Conciliation"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "140",
+    "Botanical Name": "Ocimum tenuiflorum L.",
+    "Common / Edible Crop Name": "Holy Basil / Tulsi",
+    "Official Mother's Significance": "Devotion"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "141",
+    "Botanical Name": "Ocimum americanum L.",
+    "Common / Edible Crop Name": "Black Holy Basil / Kali Tulsi",
+    "Official Mother's Significance": "Conquering fervour"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "142",
+    "Botanical Name": "Ocimum basilicum L.",
+    "Common / Edible Crop Name": "Sweet Basil / Sabja",
+    "Official Mother's Significance": "Joy of union with the divine"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "208",
+    "Botanical Name": "Ocimum basilicum L.",
+    "Common / Edible Crop Name": "Common Basil / Marua",
+    "Official Mother's Significance": "Discipline"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "275",
+    "Botanical Name": "Cymbopogon citratus Stapf",
+    "Common / Edible Crop Name": "Lemongrass / Ganjni",
+    "Official Mother's Significance": "Help"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "003",
+    "Botanical Name": "Zingiber / Hedychium coronarium",
+    "Common / Edible Crop Name": "Ginger / Adrak",
+    "Official Mother's Significance": "Sachchidananda"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "436",
+    "Botanical Name": "Alpinia zerumbet",
+    "Common / Edible Crop Name": "Shell Ginger / Pink Porcelain Lily",
+    "Official Mother's Significance": "Eloquence"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "462",
+    "Botanical Name": "Costus speciosus",
+    "Common / Edible Crop Name": "Wild Ginger",
+    "Official Mother's Significance": "Revelation"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "319",
+    "Botanical Name": "Curcuma zedoaria",
+    "Common / Edible Crop Name": "Zedoary / Amba Haldi",
+    "Official Mother's Significance": "Peace"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "124",
+    "Botanical Name": "Capparis brevispina DC.",
+    "Common / Edible Crop Name": "Caper Bush / Kanthari",
+    "Official Mother's Significance": "Triple aspiration"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "684",
+    "Botanical Name": "Crataeva adansonii DC.",
+    "Common / Edible Crop Name": "Caper Tree / Varun",
+    "Official Mother's Significance": "Work of enlightened mind"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "111",
+    "Botanical Name": "Coffea L.",
+    "Common / Edible Crop Name": "Coffee Blossom / Kafi",
+    "Official Mother's Significance": "Perfect path"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "874",
+    "Botanical Name": "Bacopa monnieri (L.) Wettst.",
+    "Common / Edible Crop Name": "Brahmi / Water Hyssop",
+    "Official Mother's Significance": "Material enterprises"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "892",
+    "Botanical Name": "Tinospora cordifolia Miers",
+    "Common / Edible Crop Name": "Giloy / Guduchi",
+    "Official Mother's Significance": "Krishna's influence in subconscient"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "511",
+    "Botanical Name": "Asparagus racemosus Willd.",
+    "Common / Edible Crop Name": "Shatavari / Wild Asparagus",
+    "Official Mother's Significance": "Spiritual power of healing"
+  },
+  {
+    "Category": "Spice / Herb",
+    "Flower ID": "884",
+    "Botanical Name": "Clitoria ternatea L.",
+    "Common / Edible Crop Name": "Butterfly Pea / Aparajita",
+    "Official Mother's Significance": "Radical power"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "204",
+    "Botanical Name": "Citrus limon (L.) Burm. f.",
+    "Common / Edible Crop Name": "Lemon / Nimbu",
+    "Official Mother's Significance": "Chastity"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "205",
+    "Botanical Name": "Citrus maxima (Burm.) Merrill",
+    "Common / Edible Crop Name": "Pummelo / Shaddock / Chakotra",
+    "Official Mother's Significance": "Continence"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "006",
+    "Botanical Name": "Vitis vinifera L.",
+    "Common / Edible Crop Name": "Grape Vine / Angoor",
+    "Official Mother's Significance": "Divine ananda"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "007",
+    "Botanical Name": "Punica granatum L.",
+    "Common / Edible Crop Name": "Pomegranate / Anar",
+    "Official Mother's Significance": "Divine love"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "008",
+    "Botanical Name": "Punica granatum L.",
+    "Common / Edible Crop Name": "Red Pomegranate / Lal Anar",
+    "Official Mother's Significance": "Divine sacrifice"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "009",
+    "Botanical Name": "Punica granatum L.",
+    "Common / Edible Crop Name": "Pomegranate Blossom",
+    "Official Mother's Significance": "Divine love spreading over world"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "846",
+    "Botanical Name": "Mangifera indica L.",
+    "Common / Edible Crop Name": "Mango Blossom / Aam ka Maur",
+    "Official Mother's Significance": "Nature's hope for realisation"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "847",
+    "Botanical Name": "Mangifera indica L.",
+    "Common / Edible Crop Name": "Mango / Aam",
+    "Official Mother's Significance": "Divine knowledge"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "855",
+    "Botanical Name": "Cocos nucifera L.",
+    "Common / Edible Crop Name": "Coconut Palm / Nariyal",
+    "Official Mother's Significance": "Multitude"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "211",
+    "Botanical Name": "Psidium guajava L.",
+    "Common / Edible Crop Name": "Guava / Amrood",
+    "Official Mother's Significance": "Steadfastness"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "450",
+    "Botanical Name": "Syzygium jambos (L.) Alston",
+    "Common / Edible Crop Name": "Rose Apple / Jamun / Jambu",
+    "Official Mother's Significance": "Mastery"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "272",
+    "Botanical Name": "Averrhoa carambola L.",
+    "Common / Edible Crop Name": "Star Fruit / Carambola / Kamrakh",
+    "Official Mother's Significance": "Organised team-work"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "788",
+    "Botanical Name": "Carica papaya L.",
+    "Common / Edible Crop Name": "Papaya / Papita",
+    "Official Mother's Significance": "Vital impulses"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "139",
+    "Botanical Name": "Aegle marmelos (L.) Correa",
+    "Common / Edible Crop Name": "Bael / Bilva",
+    "Official Mother's Significance": "Devotional attitude"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "201",
+    "Botanical Name": "Atalantia monophylla Correa",
+    "Common / Edible Crop Name": "Country Gooseberry / Wild Lemon",
+    "Official Mother's Significance": "Absence of desire"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "644",
+    "Botanical Name": "Terminalia catappa L.",
+    "Common / Edible Crop Name": "Tropical Almond / Indian Badam",
+    "Official Mother's Significance": "Spiritual aspiration"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "785",
+    "Botanical Name": "Areca catechu L.",
+    "Common / Edible Crop Name": "Betel Nut Palm / Supari",
+    "Official Mother's Significance": "Steadfast-vitality"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "245",
+    "Botanical Name": "Mimusops elengi L.",
+    "Common / Edible Crop Name": "Spanish Cherry / Bakul",
+    "Official Mother's Significance": "Accomplishment"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "880",
+    "Botanical Name": "Ficus religiosa L.",
+    "Common / Edible Crop Name": "Sacred Fig / Peepal",
+    "Official Mother's Significance": "Ether"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "881",
+    "Botanical Name": "Ficus benghalensis L.",
+    "Common / Edible Crop Name": "Banyan Tree / Bargad",
+    "Official Mother's Significance": "Air"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "885",
+    "Botanical Name": "Ficus racemosa L.",
+    "Common / Edible Crop Name": "Cluster Fig / Gular",
+    "Official Mother's Significance": "Radha's consciousness in vital"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "886",
+    "Botanical Name": "Madhuca longifolia Macbr.",
+    "Common / Edible Crop Name": "Mahua Tree",
+    "Official Mother's Significance": "Krishna's light in overmind"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "887",
+    "Botanical Name": "Terminalia arjuna Wight & Arn.",
+    "Common / Edible Crop Name": "Arjun Tree",
+    "Official Mother's Significance": "Krishna's light in mind"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "888",
+    "Botanical Name": "Garcinia indica Choisy",
+    "Common / Edible Crop Name": "Kokum / Wild Mangosteen",
+    "Official Mother's Significance": "Krishna's light in physical mind"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "890",
+    "Botanical Name": "Tamarindus indica L.",
+    "Common / Edible Crop Name": "Tamarind / Imli",
+    "Official Mother's Significance": "Krishna's light in vital"
+  },
+  {
+    "Category": "Fruit / Citrus",
+    "Flower ID": "877",
+    "Botanical Name": "Phyllanthus emblica L.",
+    "Common / Edible Crop Name": "Indian Gooseberry / Amla",
+    "Official Mother's Significance": "Silver"
+  }
+]

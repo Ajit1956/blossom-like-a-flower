@@ -6,17 +6,31 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "newArchEnabled": true,
     "plugins": [
       [
         "expo-camera",
         {
-          "cameraPermission": "Allow Blossom like a Flower to access your camera to identify flowers and reveal their spiritual significance."
+          "cameraPermission": "Allow Blossom like a Flower to access your camera to identify flowers and reveal their spiritual significance.",
+          "microphonePermission": "Allow Blossom like a Flower to access your microphone."
         }
-      ]
+      ],
+      "expo-asset"
     ],
     "ios": {
       "bundleIdentifier": "com.workspace.blossomlikeaflower",
-      "supportsTablet": true
+      "supportsTablet": true,
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.workspace.blossomlikeaflower"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "aed579cc-f62f-416c-a12a-2f3e1cf5a178"
+      }
     }
   }
 }

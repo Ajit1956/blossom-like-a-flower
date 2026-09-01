@@ -1,0 +1,1 @@
+export const referenceImageBase64 = '';

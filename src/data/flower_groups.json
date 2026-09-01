@@ -1,0 +1,3805 @@
+[
+    {
+        "group_id": "G1",
+        "genus": "Hibiscus",
+        "total_flowers": 57,
+        "flower_ids": [
+            "564",
+            "565",
+            "566",
+            "567",
+            "568",
+            "569",
+            "570",
+            "571",
+            "572",
+            "573",
+            "574",
+            "575",
+            "576",
+            "577",
+            "578",
+            "579",
+            "580",
+            "581",
+            "582",
+            "583",
+            "584",
+            "585",
+            "586",
+            "587",
+            "588",
+            "589",
+            "590",
+            "591",
+            "592",
+            "593",
+            "594",
+            "595",
+            "596",
+            "597",
+            "598",
+            "599",
+            "600",
+            "601",
+            "602",
+            "603",
+            "604",
+            "605",
+            "606",
+            "607",
+            "608",
+            "609",
+            "610",
+            "611",
+            "612",
+            "613",
+            "614",
+            "615",
+            "616",
+            "617",
+            "618",
+            "619",
+            "620"
+        ]
+    },
+    {
+        "group_id": "G2",
+        "genus": "Rosa",
+        "total_flowers": 23,
+        "flower_ids": [
+            "087",
+            "088",
+            "089",
+            "090",
+            "091",
+            "092",
+            "093",
+            "094",
+            "095",
+            "096",
+            "097",
+            "098",
+            "099",
+            "100",
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106",
+            "107",
+            "108",
+            "109"
+        ]
+    },
+    {
+        "group_id": "G3",
+        "genus": "Petunia",
+        "total_flowers": 16,
+        "flower_ids": [
+            "373",
+            "374",
+            "375",
+            "376",
+            "377",
+            "378",
+            "379",
+            "380",
+            "381",
+            "382",
+            "383",
+            "384",
+            "385",
+            "386",
+            "387",
+            "388"
+        ]
+    },
+    {
+        "group_id": "G4",
+        "genus": "Canna",
+        "total_flowers": 15,
+        "flower_ids": [
+            "078",
+            "079",
+            "080",
+            "621",
+            "622",
+            "623",
+            "624",
+            "625",
+            "626",
+            "627",
+            "628",
+            "629",
+            "630",
+            "631",
+            "632"
+        ]
+    },
+    {
+        "group_id": "G5",
+        "genus": "Zinnia",
+        "total_flowers": 15,
+        "flower_ids": [
+            "226",
+            "227",
+            "228",
+            "229",
+            "230",
+            "231",
+            "232",
+            "233",
+            "234",
+            "235",
+            "236",
+            "237",
+            "238",
+            "239",
+            "240"
+        ]
+    },
+    {
+        "group_id": "G6",
+        "genus": "Ipomoea",
+        "total_flowers": 13,
+        "flower_ids": [
+            "156",
+            "157",
+            "196",
+            "282",
+            "324",
+            "522",
+            "523",
+            "524",
+            "528",
+            "721",
+            "802",
+            "803",
+            "842"
+        ]
+    },
+    {
+        "group_id": "G7",
+        "genus": "Bougainvillea",
+        "total_flowers": 11,
+        "flower_ids": [
+            "024",
+            "025",
+            "026",
+            "027",
+            "028",
+            "029",
+            "030",
+            "031",
+            "032",
+            "033",
+            "034"
+        ]
+    },
+    {
+        "group_id": "G8",
+        "genus": "Dahlia",
+        "total_flowers": 11,
+        "flower_ids": [
+            "053",
+            "541",
+            "542",
+            "543",
+            "544",
+            "545",
+            "546",
+            "547",
+            "791",
+            "792",
+            "794"
+        ]
+    },
+    {
+        "group_id": "G9",
+        "genus": "Alcea",
+        "total_flowers": 11,
+        "flower_ids": [
+            "145",
+            "146",
+            "147",
+            "148",
+            "149",
+            "150",
+            "151",
+            "152",
+            "153",
+            "154",
+            "155"
+        ]
+    },
+    {
+        "group_id": "G10",
+        "genus": "Celosia",
+        "total_flowers": 11,
+        "flower_ids": [
+            "411",
+            "412",
+            "413",
+            "414",
+            "415",
+            "434",
+            "435",
+            "501",
+            "502",
+            "503",
+            "504"
+        ]
+    },
+    {
+        "group_id": "G11",
+        "genus": "Gladiolus",
+        "total_flowers": 10,
+        "flower_ids": [
+            "176",
+            "177",
+            "178",
+            "179",
+            "180",
+            "181",
+            "182",
+            "183",
+            "184",
+            "185"
+        ]
+    },
+    {
+        "group_id": "G12",
+        "genus": "Phlox",
+        "total_flowers": 10,
+        "flower_ids": [
+            "254",
+            "255",
+            "256",
+            "257",
+            "258",
+            "259",
+            "260",
+            "261",
+            "262",
+            "263"
+        ]
+    },
+    {
+        "group_id": "G13",
+        "genus": "Clerodendrum",
+        "total_flowers": 10,
+        "flower_ids": [
+            "368",
+            "369",
+            "370",
+            "371",
+            "372",
+            "718",
+            "806",
+            "830",
+            "833",
+            "839"
+        ]
+    },
+    {
+        "group_id": "G14",
+        "genus": "Thunbergia",
+        "total_flowers": 9,
+        "flower_ids": [
+            "171",
+            "172",
+            "173",
+            "174",
+            "175",
+            "477",
+            "478",
+            "770",
+            "887"
+        ]
+    },
+    {
+        "group_id": "G15",
+        "genus": "Verbena",
+        "total_flowers": 9,
+        "flower_ids": [
+            "215",
+            "216",
+            "217",
+            "218",
+            "219",
+            "220",
+            "780",
+            "781",
+            "782"
+        ]
+    },
+    {
+        "group_id": "G16",
+        "genus": "Callistephus",
+        "total_flowers": 9,
+        "flower_ids": [
+            "293",
+            "294",
+            "295",
+            "296",
+            "297",
+            "298",
+            "299",
+            "300",
+            "301"
+        ]
+    },
+    {
+        "group_id": "G17",
+        "genus": "Hippeastrum",
+        "total_flowers": 9,
+        "flower_ids": [
+            "483",
+            "484",
+            "485",
+            "486",
+            "487",
+            "488",
+            "489",
+            "490",
+            "491"
+        ]
+    },
+    {
+        "group_id": "G18",
+        "genus": "Nymphaea",
+        "total_flowers": 9,
+        "flower_ids": [
+            "548",
+            "549",
+            "550",
+            "551",
+            "552",
+            "553",
+            "554",
+            "555",
+            "556"
+        ]
+    },
+    {
+        "group_id": "G19",
+        "genus": "Impatiens",
+        "total_flowers": 8,
+        "flower_ids": [
+            "248",
+            "357",
+            "358",
+            "359",
+            "360",
+            "361",
+            "362",
+            "363"
+        ]
+    },
+    {
+        "group_id": "G20",
+        "genus": "Begonia",
+        "total_flowers": 8,
+        "flower_ids": [
+            "341",
+            "342",
+            "343",
+            "344",
+            "345",
+            "346",
+            "347",
+            "348"
+        ]
+    },
+    {
+        "group_id": "G21",
+        "genus": "Antirrhinum",
+        "total_flowers": 8,
+        "flower_ids": [
+            "426",
+            "427",
+            "428",
+            "429",
+            "430",
+            "431",
+            "432",
+            "433"
+        ]
+    },
+    {
+        "group_id": "G22",
+        "genus": "Asystasia",
+        "total_flowers": 7,
+        "flower_ids": [
+            "071",
+            "072",
+            "073",
+            "074",
+            "075",
+            "076",
+            "077"
+        ]
+    },
+    {
+        "group_id": "G23",
+        "genus": "Barleria",
+        "total_flowers": 7,
+        "flower_ids": [
+            "165",
+            "166",
+            "167",
+            "168",
+            "169",
+            "170",
+            "766"
+        ]
+    },
+    {
+        "group_id": "G24",
+        "genus": "Pseuderanthemum",
+        "total_flowers": 7,
+        "flower_ids": [
+            "265",
+            "266",
+            "267",
+            "268",
+            "269",
+            "270",
+            "271"
+        ]
+    },
+    {
+        "group_id": "G25",
+        "genus": "Nerium",
+        "total_flowers": 7,
+        "flower_ids": [
+            "724",
+            "725",
+            "726",
+            "727",
+            "728",
+            "729",
+            "730"
+        ]
+    },
+    {
+        "group_id": "G26",
+        "genus": "Lagerstroemia",
+        "total_flowers": 6,
+        "flower_ids": [
+            "081",
+            "082",
+            "083",
+            "084",
+            "085",
+            "086"
+        ]
+    },
+    {
+        "group_id": "G27",
+        "genus": "Tagetes",
+        "total_flowers": 6,
+        "flower_ids": [
+            "397",
+            "398",
+            "399",
+            "400",
+            "401",
+            "402"
+        ]
+    },
+    {
+        "group_id": "G28",
+        "genus": "Tropaeolum",
+        "total_flowers": 5,
+        "flower_ids": [
+            "039",
+            "040",
+            "041",
+            "042",
+            "043"
+        ]
+    },
+    {
+        "group_id": "G29",
+        "genus": "Ixora",
+        "total_flowers": 5,
+        "flower_ids": [
+            "126",
+            "127",
+            "128",
+            "422",
+            "811"
+        ]
+    },
+    {
+        "group_id": "G30",
+        "genus": "Zephyranthes",
+        "total_flowers": 5,
+        "flower_ids": [
+            "130",
+            "131",
+            "132",
+            "133",
+            "134"
+        ]
+    },
+    {
+        "group_id": "G31",
+        "genus": "Acalypha",
+        "total_flowers": 5,
+        "flower_ids": [
+            "221",
+            "222",
+            "223",
+            "224",
+            "225"
+        ]
+    },
+    {
+        "group_id": "G32",
+        "genus": "Catharanthus",
+        "total_flowers": 5,
+        "flower_ids": [
+            "283",
+            "284",
+            "285",
+            "286",
+            "287"
+        ]
+    },
+    {
+        "group_id": "G33",
+        "genus": "Dendranthema",
+        "total_flowers": 5,
+        "flower_ids": [
+            "389",
+            "390",
+            "391",
+            "392",
+            "393"
+        ]
+    },
+    {
+        "group_id": "G34",
+        "genus": "Helianthus",
+        "total_flowers": 5,
+        "flower_ids": [
+            "464",
+            "465",
+            "466",
+            "467",
+            "635"
+        ]
+    },
+    {
+        "group_id": "G35",
+        "genus": "Gomphrena",
+        "total_flowers": 5,
+        "flower_ids": [
+            "505",
+            "506",
+            "507",
+            "508",
+            "509"
+        ]
+    },
+    {
+        "group_id": "G36",
+        "genus": "Bauhinia",
+        "total_flowers": 5,
+        "flower_ids": [
+            "741",
+            "742",
+            "743",
+            "878",
+            "879"
+        ]
+    },
+    {
+        "group_id": "G37",
+        "genus": "Plumbago",
+        "total_flowers": 4,
+        "flower_ids": [
+            "005",
+            "663",
+            "840",
+            "898"
+        ]
+    },
+    {
+        "group_id": "G38",
+        "genus": "Punica",
+        "total_flowers": 4,
+        "flower_ids": [
+            "007",
+            "008",
+            "009",
+            "010"
+        ]
+    },
+    {
+        "group_id": "G39",
+        "genus": "Mirabilis",
+        "total_flowers": 4,
+        "flower_ids": [
+            "018",
+            "019",
+            "020",
+            "021"
+        ]
+    },
+    {
+        "group_id": "G40",
+        "genus": "Gaillardia",
+        "total_flowers": 4,
+        "flower_ids": [
+            "051",
+            "052",
+            "329",
+            "330"
+        ]
+    },
+    {
+        "group_id": "G41",
+        "genus": "Ocimum",
+        "total_flowers": 4,
+        "flower_ids": [
+            "140",
+            "141",
+            "142",
+            "208"
+        ]
+    },
+    {
+        "group_id": "G42",
+        "genus": "Solanum",
+        "total_flowers": 4,
+        "flower_ids": [
+            "144",
+            "405",
+            "408",
+            "409"
+        ]
+    },
+    {
+        "group_id": "G43",
+        "genus": "Sinningia",
+        "total_flowers": 4,
+        "flower_ids": [
+            "186",
+            "187",
+            "188",
+            "349"
+        ]
+    },
+    {
+        "group_id": "G44",
+        "genus": "Datura",
+        "total_flowers": 4,
+        "flower_ids": [
+            "191",
+            "192",
+            "193",
+            "194"
+        ]
+    },
+    {
+        "group_id": "G45",
+        "genus": "Dianthus",
+        "total_flowers": 4,
+        "flower_ids": [
+            "276",
+            "277",
+            "278",
+            "279"
+        ]
+    },
+    {
+        "group_id": "G46",
+        "genus": "Jasminum",
+        "total_flowers": 4,
+        "flower_ids": [
+            "302",
+            "303",
+            "304",
+            "317"
+        ]
+    },
+    {
+        "group_id": "G47",
+        "genus": "Antigonon",
+        "total_flowers": 4,
+        "flower_ids": [
+            "350",
+            "351",
+            "352",
+            "353"
+        ]
+    },
+    {
+        "group_id": "G48",
+        "genus": "Pentas",
+        "total_flowers": 4,
+        "flower_ids": [
+            "472",
+            "473",
+            "474",
+            "475"
+        ]
+    },
+    {
+        "group_id": "G49",
+        "genus": "Salvia",
+        "total_flowers": 4,
+        "flower_ids": [
+            "645",
+            "646",
+            "647",
+            "886"
+        ]
+    },
+    {
+        "group_id": "G50",
+        "genus": "Cassia",
+        "total_flowers": 4,
+        "flower_ids": [
+            "658",
+            "675",
+            "712",
+            "774"
+        ]
+    },
+    {
+        "group_id": "G51",
+        "genus": "Plumeria",
+        "total_flowers": 4,
+        "flower_ids": [
+            "664",
+            "665",
+            "667",
+            "668"
+        ]
+    },
+    {
+        "group_id": "G52",
+        "genus": "Eranthemum",
+        "total_flowers": 4,
+        "flower_ids": [
+            "678",
+            "679",
+            "759",
+            "893"
+        ]
+    },
+    {
+        "group_id": "G53",
+        "genus": "Clitoria",
+        "total_flowers": 4,
+        "flower_ids": [
+            "775",
+            "884",
+            "885",
+            "889"
+        ]
+    },
+    {
+        "group_id": "G54",
+        "genus": "Lantana",
+        "total_flowers": 4,
+        "flower_ids": [
+            "813",
+            "814",
+            "815",
+            "816"
+        ]
+    },
+    {
+        "group_id": "G55",
+        "genus": "Tradescantia",
+        "total_flowers": 3,
+        "flower_ids": [
+            "004",
+            "751",
+            "763"
+        ]
+    },
+    {
+        "group_id": "G56",
+        "genus": "Malvaviscus",
+        "total_flowers": 3,
+        "flower_ids": [
+            "015",
+            "016",
+            "017"
+        ]
+    },
+    {
+        "group_id": "G57",
+        "genus": "Abutilon",
+        "total_flowers": 3,
+        "flower_ids": [
+            "036",
+            "037",
+            "038"
+        ]
+    },
+    {
+        "group_id": "G58",
+        "genus": "Cattleya",
+        "total_flowers": 3,
+        "flower_ids": [
+            "059",
+            "060",
+            "061"
+        ]
+    },
+    {
+        "group_id": "G59",
+        "genus": "Euphorbia",
+        "total_flowers": 3,
+        "flower_ids": [
+            "190",
+            "761",
+            "762"
+        ]
+    },
+    {
+        "group_id": "G60",
+        "genus": "Angelonia",
+        "total_flowers": 3,
+        "flower_ids": [
+            "198",
+            "199",
+            "200"
+        ]
+    },
+    {
+        "group_id": "G61",
+        "genus": "Acacia",
+        "total_flowers": 3,
+        "flower_ids": [
+            "247",
+            "453",
+            "454"
+        ]
+    },
+    {
+        "group_id": "G62",
+        "genus": "Crinum",
+        "total_flowers": 3,
+        "flower_ids": [
+            "250",
+            "251",
+            "320"
+        ]
+    },
+    {
+        "group_id": "G63",
+        "genus": "Passiflora",
+        "total_flowers": 3,
+        "flower_ids": [
+            "252",
+            "321",
+            "322"
+        ]
+    },
+    {
+        "group_id": "G64",
+        "genus": "Aster",
+        "total_flowers": 3,
+        "flower_ids": [
+            "290",
+            "291",
+            "292"
+        ]
+    },
+    {
+        "group_id": "G65",
+        "genus": "Viola",
+        "total_flowers": 3,
+        "flower_ids": [
+            "316",
+            "722",
+            "723"
+        ]
+    },
+    {
+        "group_id": "G66",
+        "genus": "Amaranthus",
+        "total_flowers": 3,
+        "flower_ids": [
+            "406",
+            "407",
+            "752"
+        ]
+    },
+    {
+        "group_id": "G67",
+        "genus": "Caesalpinia",
+        "total_flowers": 3,
+        "flower_ids": [
+            "452",
+            "716",
+            "882"
+        ]
+    },
+    {
+        "group_id": "G68",
+        "genus": "Calliandra",
+        "total_flowers": 3,
+        "flower_ids": [
+            "456",
+            "457",
+            "458"
+        ]
+    },
+    {
+        "group_id": "G69",
+        "genus": "Cestrum",
+        "total_flowers": 3,
+        "flower_ids": [
+            "470",
+            "471",
+            "881"
+        ]
+    },
+    {
+        "group_id": "G70",
+        "genus": "Justicia",
+        "total_flowers": 3,
+        "flower_ids": [
+            "661",
+            "662",
+            "686"
+        ]
+    },
+    {
+        "group_id": "G71",
+        "genus": "Thevetia",
+        "total_flowers": 3,
+        "flower_ids": [
+            "671",
+            "672",
+            "689"
+        ]
+    },
+    {
+        "group_id": "G72",
+        "genus": "Holmskioldia",
+        "total_flowers": 3,
+        "flower_ids": [
+            "708",
+            "709",
+            "710"
+        ]
+    },
+    {
+        "group_id": "G73",
+        "genus": "Anthurium",
+        "total_flowers": 3,
+        "flower_ids": [
+            "818",
+            "819",
+            "820"
+        ]
+    },
+    {
+        "group_id": "G74",
+        "genus": "Cosmos",
+        "total_flowers": 3,
+        "flower_ids": [
+            "822",
+            "823",
+            "824"
+        ]
+    },
+    {
+        "group_id": "G75",
+        "genus": "Jatropha",
+        "total_flowers": 3,
+        "flower_ids": [
+            "835",
+            "853",
+            "867"
+        ]
+    },
+    {
+        "group_id": "G76",
+        "genus": "Crossandra",
+        "total_flowers": 3,
+        "flower_ids": [
+            "836",
+            "837",
+            "838"
+        ]
+    },
+    {
+        "group_id": "G77",
+        "genus": "Erythrina",
+        "total_flowers": 3,
+        "flower_ids": [
+            "869",
+            "870",
+            "871"
+        ]
+    },
+    {
+        "group_id": "G78",
+        "genus": "Torenia",
+        "total_flowers": 3,
+        "flower_ids": [
+            "895",
+            "896",
+            "897"
+        ]
+    },
+    {
+        "group_id": "G79",
+        "genus": "Nelumbo",
+        "total_flowers": 2,
+        "flower_ids": [
+            "001",
+            "002"
+        ]
+    },
+    {
+        "group_id": "G80",
+        "genus": "Operculina",
+        "total_flowers": 2,
+        "flower_ids": [
+            "012",
+            "327"
+        ]
+    },
+    {
+        "group_id": "G81",
+        "genus": "Michelia",
+        "total_flowers": 2,
+        "flower_ids": [
+            "013",
+            "670"
+        ]
+    },
+    {
+        "group_id": "G82",
+        "genus": "Scabiosa",
+        "total_flowers": 2,
+        "flower_ids": [
+            "022",
+            "023"
+        ]
+    },
+    {
+        "group_id": "G83",
+        "genus": "Leucanthemum",
+        "total_flowers": 2,
+        "flower_ids": [
+            "045",
+            "848"
+        ]
+    },
+    {
+        "group_id": "G84",
+        "genus": "Polianthes",
+        "total_flowers": 2,
+        "flower_ids": [
+            "048",
+            "049"
+        ]
+    },
+    {
+        "group_id": "G85",
+        "genus": "Strophanthus",
+        "total_flowers": 2,
+        "flower_ids": [
+            "054",
+            "748"
+        ]
+    },
+    {
+        "group_id": "G86",
+        "genus": "Roxb",
+        "total_flowers": 2,
+        "flower_ids": [
+            "063",
+            "764"
+        ]
+    },
+    {
+        "group_id": "G87",
+        "genus": "Vanda",
+        "total_flowers": 2,
+        "flower_ids": [
+            "064",
+            "065"
+        ]
+    },
+    {
+        "group_id": "G88",
+        "genus": "Spathoglottis",
+        "total_flowers": 2,
+        "flower_ids": [
+            "066",
+            "067"
+        ]
+    },
+    {
+        "group_id": "G89",
+        "genus": "Citrus",
+        "total_flowers": 2,
+        "flower_ids": [
+            "204",
+            "205"
+        ]
+    },
+    {
+        "group_id": "G90",
+        "genus": "Mimusops",
+        "total_flowers": 2,
+        "flower_ids": [
+            "244",
+            "245"
+        ]
+    },
+    {
+        "group_id": "G91",
+        "genus": "Qerodendrum",
+        "total_flowers": 2,
+        "flower_ids": [
+            "273",
+            "274"
+        ]
+    },
+    {
+        "group_id": "G92",
+        "genus": "Group",
+        "total_flowers": 2,
+        "flower_ids": [
+            "288",
+            "753"
+        ]
+    },
+    {
+        "group_id": "G93",
+        "genus": "Gardenia",
+        "total_flowers": 2,
+        "flower_ids": [
+            "308",
+            "309"
+        ]
+    },
+    {
+        "group_id": "G94",
+        "genus": "Merremia",
+        "total_flowers": 2,
+        "flower_ids": [
+            "325",
+            "326"
+        ]
+    },
+    {
+        "group_id": "G95",
+        "genus": "No",
+        "total_flowers": 2,
+        "flower_ids": [
+            "335",
+            "793"
+        ]
+    },
+    {
+        "group_id": "G96",
+        "genus": "Commelina",
+        "total_flowers": 2,
+        "flower_ids": [
+            "356",
+            "849"
+        ]
+    },
+    {
+        "group_id": "G97",
+        "genus": "Portlandia",
+        "total_flowers": 2,
+        "flower_ids": [
+            "366",
+            "367"
+        ]
+    },
+    {
+        "group_id": "G98",
+        "genus": "Calotropis",
+        "total_flowers": 2,
+        "flower_ids": [
+            "403",
+            "404"
+        ]
+    },
+    {
+        "group_id": "G99",
+        "genus": "Acanthus",
+        "total_flowers": 2,
+        "flower_ids": [
+            "418",
+            "773"
+        ]
+    },
+    {
+        "group_id": "G100",
+        "genus": "Asparagus",
+        "total_flowers": 2,
+        "flower_ids": [
+            "425",
+            "511"
+        ]
+    },
+    {
+        "group_id": "G101",
+        "genus": "Alpinia",
+        "total_flowers": 2,
+        "flower_ids": [
+            "436",
+            "437"
+        ]
+    },
+    {
+        "group_id": "G102",
+        "genus": "Nicotiana",
+        "total_flowers": 2,
+        "flower_ids": [
+            "447",
+            "448"
+        ]
+    },
+    {
+        "group_id": "G103",
+        "genus": "Aristolochia",
+        "total_flowers": 2,
+        "flower_ids": [
+            "460",
+            "461"
+        ]
+    },
+    {
+        "group_id": "G104",
+        "genus": "Costus",
+        "total_flowers": 2,
+        "flower_ids": [
+            "462",
+            "463"
+        ]
+    },
+    {
+        "group_id": "G105",
+        "genus": "Delonix",
+        "total_flowers": 2,
+        "flower_ids": [
+            "494",
+            "711"
+        ]
+    },
+    {
+        "group_id": "G106",
+        "genus": "Narcissus",
+        "total_flowers": 2,
+        "flower_ids": [
+            "516",
+            "517"
+        ]
+    },
+    {
+        "group_id": "G107",
+        "genus": "Prunus",
+        "total_flowers": 2,
+        "flower_ids": [
+            "520",
+            "521"
+        ]
+    },
+    {
+        "group_id": "G108",
+        "genus": "Kaempferia",
+        "total_flowers": 2,
+        "flower_ids": [
+            "533",
+            "739"
+        ]
+    },
+    {
+        "group_id": "G109",
+        "genus": "Malpighia",
+        "total_flowers": 2,
+        "flower_ids": [
+            "536",
+            "537"
+        ]
+    },
+    {
+        "group_id": "G110",
+        "genus": "Tithonia",
+        "total_flowers": 2,
+        "flower_ids": [
+            "557",
+            "799"
+        ]
+    },
+    {
+        "group_id": "G111",
+        "genus": "Couroupita",
+        "total_flowers": 2,
+        "flower_ids": [
+            "558",
+            "559"
+        ]
+    },
+    {
+        "group_id": "G112",
+        "genus": "Orthosiphon",
+        "total_flowers": 2,
+        "flower_ids": [
+            "650",
+            "651"
+        ]
+    },
+    {
+        "group_id": "G113",
+        "genus": "Sansevieria",
+        "total_flowers": 2,
+        "flower_ids": [
+            "655",
+            "656"
+        ]
+    },
+    {
+        "group_id": "G114",
+        "genus": "Tecoma",
+        "total_flowers": 2,
+        "flower_ids": [
+            "680",
+            "681"
+        ]
+    },
+    {
+        "group_id": "G115",
+        "genus": "Asclepias",
+        "total_flowers": 2,
+        "flower_ids": [
+            "687",
+            "688"
+        ]
+    },
+    {
+        "group_id": "G116",
+        "genus": "Tabernaemontana",
+        "total_flowers": 2,
+        "flower_ids": [
+            "699",
+            "700"
+        ]
+    },
+    {
+        "group_id": "G117",
+        "genus": "Crotalaria",
+        "total_flowers": 2,
+        "flower_ids": [
+            "703",
+            "787"
+        ]
+    },
+    {
+        "group_id": "G118",
+        "genus": "Cytisus",
+        "total_flowers": 2,
+        "flower_ids": [
+            "713",
+            "714"
+        ]
+    },
+    {
+        "group_id": "G119",
+        "genus": "Browallia",
+        "total_flowers": 2,
+        "flower_ids": [
+            "735",
+            "736"
+        ]
+    },
+    {
+        "group_id": "G120",
+        "genus": "Saintpaulia",
+        "total_flowers": 2,
+        "flower_ids": [
+            "737",
+            "738"
+        ]
+    },
+    {
+        "group_id": "G121",
+        "genus": "Duranta",
+        "total_flowers": 2,
+        "flower_ids": [
+            "746",
+            "747"
+        ]
+    },
+    {
+        "group_id": "G122",
+        "genus": "Gossypium",
+        "total_flowers": 2,
+        "flower_ids": [
+            "758",
+            "876"
+        ]
+    },
+    {
+        "group_id": "G123",
+        "genus": "Combretum",
+        "total_flowers": 2,
+        "flower_ids": [
+            "776",
+            "777"
+        ]
+    },
+    {
+        "group_id": "G124",
+        "genus": "Episcia",
+        "total_flowers": 2,
+        "flower_ids": [
+            "778",
+            "779"
+        ]
+    },
+    {
+        "group_id": "G125",
+        "genus": "Russelia",
+        "total_flowers": 2,
+        "flower_ids": [
+            "800",
+            "801"
+        ]
+    },
+    {
+        "group_id": "G126",
+        "genus": "Mangifera",
+        "total_flowers": 2,
+        "flower_ids": [
+            "846",
+            "847"
+        ]
+    },
+    {
+        "group_id": "G127",
+        "genus": "Parana",
+        "total_flowers": 2,
+        "flower_ids": [
+            "880",
+            "883"
+        ]
+    },
+    {
+        "group_id": "G128",
+        "genus": "Ruellia",
+        "total_flowers": 2,
+        "flower_ids": [
+            "888",
+            "890"
+        ]
+    },
+    {
+        "group_id": "G129",
+        "genus": "Hedychium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "003"
+        ]
+    },
+    {
+        "group_id": "G130",
+        "genus": "Vitis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "006"
+        ]
+    },
+    {
+        "group_id": "G131",
+        "genus": "Brownea",
+        "total_flowers": 1,
+        "flower_ids": [
+            "011"
+        ]
+    },
+    {
+        "group_id": "G132",
+        "genus": "Portulaca",
+        "total_flowers": 1,
+        "flower_ids": [
+            "014"
+        ]
+    },
+    {
+        "group_id": "G133",
+        "genus": "Viscum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "035"
+        ]
+    },
+    {
+        "group_id": "G134",
+        "genus": "Galanthus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "044"
+        ]
+    },
+    {
+        "group_id": "G135",
+        "genus": "Laburnum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "046"
+        ]
+    },
+    {
+        "group_id": "G136",
+        "genus": "Bixa",
+        "total_flowers": 1,
+        "flower_ids": [
+            "047"
+        ]
+    },
+    {
+        "group_id": "G137",
+        "genus": "Salix",
+        "total_flowers": 1,
+        "flower_ids": [
+            "050"
+        ]
+    },
+    {
+        "group_id": "G138",
+        "genus": "Memecylon",
+        "total_flowers": 1,
+        "flower_ids": [
+            "055"
+        ]
+    },
+    {
+        "group_id": "G139",
+        "genus": "Myrtus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "056"
+        ]
+    },
+    {
+        "group_id": "G140",
+        "genus": "Belamcanda",
+        "total_flowers": 1,
+        "flower_ids": [
+            "057"
+        ]
+    },
+    {
+        "group_id": "G141",
+        "genus": "Orchidaceae",
+        "total_flowers": 1,
+        "flower_ids": [
+            "058"
+        ]
+    },
+    {
+        "group_id": "G142",
+        "genus": "Dendrobium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "062"
+        ]
+    },
+    {
+        "group_id": "G143",
+        "genus": "Epidendrum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "068"
+        ]
+    },
+    {
+        "group_id": "G144",
+        "genus": "Eulophia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "069"
+        ]
+    },
+    {
+        "group_id": "G145",
+        "genus": "Hedera",
+        "total_flowers": 1,
+        "flower_ids": [
+            "070"
+        ]
+    },
+    {
+        "group_id": "G146",
+        "genus": "Drimiopsis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "110"
+        ]
+    },
+    {
+        "group_id": "G147",
+        "genus": "Coffea",
+        "total_flowers": 1,
+        "flower_ids": [
+            "111"
+        ]
+    },
+    {
+        "group_id": "G148",
+        "genus": "Jacquemontia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "112"
+        ]
+    },
+    {
+        "group_id": "G149",
+        "genus": "Chloris",
+        "total_flowers": 1,
+        "flower_ids": [
+            "113"
+        ]
+    },
+    {
+        "group_id": "G150",
+        "genus": "Cordyline",
+        "total_flowers": 1,
+        "flower_ids": [
+            "114"
+        ]
+    },
+    {
+        "group_id": "G151",
+        "genus": "Lupinus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "115"
+        ]
+    },
+    {
+        "group_id": "G152",
+        "genus": "Leonotis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "116"
+        ]
+    },
+    {
+        "group_id": "G153",
+        "genus": "Delphinium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "117"
+        ]
+    },
+    {
+        "group_id": "G154",
+        "genus": "Nyctanthes",
+        "total_flowers": 1,
+        "flower_ids": [
+            "118"
+        ]
+    },
+    {
+        "group_id": "G155",
+        "genus": "Cleome",
+        "total_flowers": 1,
+        "flower_ids": [
+            "119"
+        ]
+    },
+    {
+        "group_id": "G156",
+        "genus": "Acer",
+        "total_flowers": 1,
+        "flower_ids": [
+            "120"
+        ]
+    },
+    {
+        "group_id": "G157",
+        "genus": "Spathiphyllum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "121"
+        ]
+    },
+    {
+        "group_id": "G158",
+        "genus": "Aerva",
+        "total_flowers": 1,
+        "flower_ids": [
+            "122"
+        ]
+    },
+    {
+        "group_id": "G159",
+        "genus": "Vernonia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "123"
+        ]
+    },
+    {
+        "group_id": "G160",
+        "genus": "Capparis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "124"
+        ]
+    },
+    {
+        "group_id": "G161",
+        "genus": "Hoy",
+        "total_flowers": 1,
+        "flower_ids": [
+            "125"
+        ]
+    },
+    {
+        "group_id": "G162",
+        "genus": "Hort",
+        "total_flowers": 1,
+        "flower_ids": [
+            "129"
+        ]
+    },
+    {
+        "group_id": "G163",
+        "genus": "Sternbergia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "135"
+        ]
+    },
+    {
+        "group_id": "G164",
+        "genus": "Wrightia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "136"
+        ]
+    },
+    {
+        "group_id": "G165",
+        "genus": "Leucas",
+        "total_flowers": 1,
+        "flower_ids": [
+            "137"
+        ]
+    },
+    {
+        "group_id": "G166",
+        "genus": "Cordia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "138"
+        ]
+    },
+    {
+        "group_id": "G167",
+        "genus": "Aegle",
+        "total_flowers": 1,
+        "flower_ids": [
+            "139"
+        ]
+    },
+    {
+        "group_id": "G168",
+        "genus": "Saponaria",
+        "total_flowers": 1,
+        "flower_ids": [
+            "143"
+        ]
+    },
+    {
+        "group_id": "G169",
+        "genus": "Carr",
+        "total_flowers": 1,
+        "flower_ids": [
+            "158"
+        ]
+    },
+    {
+        "group_id": "G170",
+        "genus": "Lonicera",
+        "total_flowers": 1,
+        "flower_ids": [
+            "159"
+        ]
+    },
+    {
+        "group_id": "G171",
+        "genus": "Lobelia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "160"
+        ]
+    },
+    {
+        "group_id": "G172",
+        "genus": "Clarkia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "161"
+        ]
+    },
+    {
+        "group_id": "G173",
+        "genus": "Myosotis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "162"
+        ]
+    },
+    {
+        "group_id": "G174",
+        "genus": "Dicentra",
+        "total_flowers": 1,
+        "flower_ids": [
+            "163"
+        ]
+    },
+    {
+        "group_id": "G175",
+        "genus": "Cynoglossum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "164"
+        ]
+    },
+    {
+        "group_id": "G176",
+        "genus": "Tulipa",
+        "total_flowers": 1,
+        "flower_ids": [
+            "189"
+        ]
+    },
+    {
+        "group_id": "G177",
+        "genus": "Brugmansia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "195"
+        ]
+    },
+    {
+        "group_id": "G178",
+        "genus": "Tectona",
+        "total_flowers": 1,
+        "flower_ids": [
+            "197"
+        ]
+    },
+    {
+        "group_id": "G179",
+        "genus": "Atalantia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "201"
+        ]
+    },
+    {
+        "group_id": "G180",
+        "genus": "Beaumontia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "202"
+        ]
+    },
+    {
+        "group_id": "G181",
+        "genus": "Eucalyptus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "203"
+        ]
+    },
+    {
+        "group_id": "G182",
+        "genus": "Pitcairnia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "206"
+        ]
+    },
+    {
+        "group_id": "G183",
+        "genus": "Nerine",
+        "total_flowers": 1,
+        "flower_ids": [
+            "207"
+        ]
+    },
+    {
+        "group_id": "G184",
+        "genus": "Kopsia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "209"
+        ]
+    },
+    {
+        "group_id": "G185",
+        "genus": "Brunfelsia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "210"
+        ]
+    },
+    {
+        "group_id": "G186",
+        "genus": "Psidium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "211"
+        ]
+    },
+    {
+        "group_id": "G187",
+        "genus": "Nichols",
+        "total_flowers": 1,
+        "flower_ids": [
+            "212"
+        ]
+    },
+    {
+        "group_id": "G188",
+        "genus": "Martynia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "213"
+        ]
+    },
+    {
+        "group_id": "G189",
+        "genus": "Digitalis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "214"
+        ]
+    },
+    {
+        "group_id": "G190",
+        "genus": "Strobilanthes",
+        "total_flowers": 1,
+        "flower_ids": [
+            "241"
+        ]
+    },
+    {
+        "group_id": "G191",
+        "genus": "Calendula",
+        "total_flowers": 1,
+        "flower_ids": [
+            "242"
+        ]
+    },
+    {
+        "group_id": "G192",
+        "genus": "Wedelia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "243"
+        ]
+    },
+    {
+        "group_id": "G193",
+        "genus": "Peltophorum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "246"
+        ]
+    },
+    {
+        "group_id": "G194",
+        "genus": "Coreopsis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "249"
+        ]
+    },
+    {
+        "group_id": "G195",
+        "genus": "Rondeletia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "253"
+        ]
+    },
+    {
+        "group_id": "G196",
+        "genus": "Randia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "264"
+        ]
+    },
+    {
+        "group_id": "G197",
+        "genus": "Averrhoa",
+        "total_flowers": 1,
+        "flower_ids": [
+            "272"
+        ]
+    },
+    {
+        "group_id": "G198",
+        "genus": "Cymbopogon",
+        "total_flowers": 1,
+        "flower_ids": [
+            "275"
+        ]
+    },
+    {
+        "group_id": "G199",
+        "genus": "Arctotis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "280"
+        ]
+    },
+    {
+        "group_id": "G200",
+        "genus": "Crossostephium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "281"
+        ]
+    },
+    {
+        "group_id": "G201",
+        "genus": "Rosea",
+        "total_flowers": 1,
+        "flower_ids": [
+            "289"
+        ]
+    },
+    {
+        "group_id": "G202",
+        "genus": "Hippobroma",
+        "total_flowers": 1,
+        "flower_ids": [
+            "305"
+        ]
+    },
+    {
+        "group_id": "G203",
+        "genus": "Lilium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "306"
+        ]
+    },
+    {
+        "group_id": "G204",
+        "genus": "Convallaria",
+        "total_flowers": 1,
+        "flower_ids": [
+            "307"
+        ]
+    },
+    {
+        "group_id": "G205",
+        "genus": "Stemmadenia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "310"
+        ]
+    },
+    {
+        "group_id": "G206",
+        "genus": "Viburnum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "311"
+        ]
+    },
+    {
+        "group_id": "G207",
+        "genus": "Crataegus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "312"
+        ]
+    },
+    {
+        "group_id": "G208",
+        "genus": "Vittadinia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "313"
+        ]
+    },
+    {
+        "group_id": "G209",
+        "genus": "Ornithogalum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "314"
+        ]
+    },
+    {
+        "group_id": "G210",
+        "genus": "Agrostis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "315"
+        ]
+    },
+    {
+        "group_id": "G211",
+        "genus": "Iberis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "318"
+        ]
+    },
+    {
+        "group_id": "G212",
+        "genus": "Curcuma",
+        "total_flowers": 1,
+        "flower_ids": [
+            "319"
+        ]
+    },
+    {
+        "group_id": "G213",
+        "genus": "Linaria",
+        "total_flowers": 1,
+        "flower_ids": [
+            "323"
+        ]
+    },
+    {
+        "group_id": "G214",
+        "genus": "Ravenia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "328"
+        ]
+    },
+    {
+        "group_id": "G215",
+        "genus": "Erysimum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "331"
+        ]
+    },
+    {
+        "group_id": "G216",
+        "genus": "Campanula",
+        "total_flowers": 1,
+        "flower_ids": [
+            "332"
+        ]
+    },
+    {
+        "group_id": "G217",
+        "genus": "Saraca",
+        "total_flowers": 1,
+        "flower_ids": [
+            "333"
+        ]
+    },
+    {
+        "group_id": "G218",
+        "genus": "Lathyrus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "334"
+        ]
+    },
+    {
+        "group_id": "G219",
+        "genus": "Momordica",
+        "total_flowers": 1,
+        "flower_ids": [
+            "336"
+        ]
+    },
+    {
+        "group_id": "G220",
+        "genus": "Lobularia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "337"
+        ]
+    },
+    {
+        "group_id": "G221",
+        "genus": "Ilex",
+        "total_flowers": 1,
+        "flower_ids": [
+            "338"
+        ]
+    },
+    {
+        "group_id": "G222",
+        "genus": "Reseda",
+        "total_flowers": 1,
+        "flower_ids": [
+            "339"
+        ]
+    },
+    {
+        "group_id": "G223",
+        "genus": "Linum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "340"
+        ]
+    },
+    {
+        "group_id": "G224",
+        "genus": "Hydrangea",
+        "total_flowers": 1,
+        "flower_ids": [
+            "354"
+        ]
+    },
+    {
+        "group_id": "G225",
+        "genus": "Sesamum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "355"
+        ]
+    },
+    {
+        "group_id": "G226",
+        "genus": "Quisqualis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "364"
+        ]
+    },
+    {
+        "group_id": "G227",
+        "genus": "Carlina",
+        "total_flowers": 1,
+        "flower_ids": [
+            "365"
+        ]
+    },
+    {
+        "group_id": "G228",
+        "genus": "Chrysanthemum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "394"
+        ]
+    },
+    {
+        "group_id": "G229",
+        "genus": "Schefflera",
+        "total_flowers": 1,
+        "flower_ids": [
+            "395"
+        ]
+    },
+    {
+        "group_id": "G230",
+        "genus": "Lawsonia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "396"
+        ]
+    },
+    {
+        "group_id": "G231",
+        "genus": "Arrhostoxylum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "410"
+        ]
+    },
+    {
+        "group_id": "G232",
+        "genus": "Pentapetes",
+        "total_flowers": 1,
+        "flower_ids": [
+            "416"
+        ]
+    },
+    {
+        "group_id": "G233",
+        "genus": "Magnolia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "417"
+        ]
+    },
+    {
+        "group_id": "G234",
+        "genus": "Clematis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "419"
+        ]
+    },
+    {
+        "group_id": "G235",
+        "genus": "Dillenia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "420"
+        ]
+    },
+    {
+        "group_id": "G236",
+        "genus": "Solandra",
+        "total_flowers": 1,
+        "flower_ids": [
+            "421"
+        ]
+    },
+    {
+        "group_id": "G237",
+        "genus": "Gerbera",
+        "total_flowers": 1,
+        "flower_ids": [
+            "423"
+        ]
+    },
+    {
+        "group_id": "G238",
+        "genus": "Pereskia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "424"
+        ]
+    },
+    {
+        "group_id": "G239",
+        "genus": "Gloriosa",
+        "total_flowers": 1,
+        "flower_ids": [
+            "438"
+        ]
+    },
+    {
+        "group_id": "G240",
+        "genus": "Parkia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "439"
+        ]
+    },
+    {
+        "group_id": "G241",
+        "genus": "Typhonium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "440"
+        ]
+    },
+    {
+        "group_id": "G242",
+        "genus": "Aphelandra",
+        "total_flowers": 1,
+        "flower_ids": [
+            "441"
+        ]
+    },
+    {
+        "group_id": "G243",
+        "genus": "Podranea",
+        "total_flowers": 1,
+        "flower_ids": [
+            "442"
+        ]
+    },
+    {
+        "group_id": "G244",
+        "genus": "Senecio",
+        "total_flowers": 1,
+        "flower_ids": [
+            "443"
+        ]
+    },
+    {
+        "group_id": "G245",
+        "genus": "Vittatum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "444"
+        ]
+    },
+    {
+        "group_id": "G246",
+        "genus": "Burm",
+        "total_flowers": 1,
+        "flower_ids": [
+            "445"
+        ]
+    },
+    {
+        "group_id": "G247",
+        "genus": "Emilia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "446"
+        ]
+    },
+    {
+        "group_id": "G248",
+        "genus": "Platycodon",
+        "total_flowers": 1,
+        "flower_ids": [
+            "449"
+        ]
+    },
+    {
+        "group_id": "G249",
+        "genus": "Syzygium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "450"
+        ]
+    },
+    {
+        "group_id": "G250",
+        "genus": "Leucaena",
+        "total_flowers": 1,
+        "flower_ids": [
+            "451"
+        ]
+    },
+    {
+        "group_id": "G251",
+        "genus": "Men-ill",
+        "total_flowers": 1,
+        "flower_ids": [
+            "455"
+        ]
+    },
+    {
+        "group_id": "G252",
+        "genus": "Albizia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "459"
+        ]
+    },
+    {
+        "group_id": "G253",
+        "genus": "Bombax",
+        "total_flowers": 1,
+        "flower_ids": [
+            "468"
+        ]
+    },
+    {
+        "group_id": "G254",
+        "genus": "Curculigo",
+        "total_flowers": 1,
+        "flower_ids": [
+            "469"
+        ]
+    },
+    {
+        "group_id": "G255",
+        "genus": "Eucharis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "476"
+        ]
+    },
+    {
+        "group_id": "G256",
+        "genus": "Hymenocallis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "479"
+        ]
+    },
+    {
+        "group_id": "G257",
+        "genus": "Pancratium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "480"
+        ]
+    },
+    {
+        "group_id": "G258",
+        "genus": "Yucca",
+        "total_flowers": 1,
+        "flower_ids": [
+            "481"
+        ]
+    },
+    {
+        "group_id": "G259",
+        "genus": "Clivia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "482"
+        ]
+    },
+    {
+        "group_id": "G260",
+        "genus": "Origanum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "492"
+        ]
+    },
+    {
+        "group_id": "G261",
+        "genus": "Sesbania",
+        "total_flowers": 1,
+        "flower_ids": [
+            "493"
+        ]
+    },
+    {
+        "group_id": "G262",
+        "genus": "Careya",
+        "total_flowers": 1,
+        "flower_ids": [
+            "495"
+        ]
+    },
+    {
+        "group_id": "G263",
+        "genus": "Allamanda",
+        "total_flowers": 1,
+        "flower_ids": [
+            "496"
+        ]
+    },
+    {
+        "group_id": "G264",
+        "genus": "Gardn",
+        "total_flowers": 1,
+        "flower_ids": [
+            "497"
+        ]
+    },
+    {
+        "group_id": "G265",
+        "genus": "Schum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "498"
+        ]
+    },
+    {
+        "group_id": "G266",
+        "genus": "Catesbaea",
+        "total_flowers": 1,
+        "flower_ids": [
+            "499"
+        ]
+    },
+    {
+        "group_id": "G267",
+        "genus": "Millingtonia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "500"
+        ]
+    },
+    {
+        "group_id": "G268",
+        "genus": "Alternanthera",
+        "total_flowers": 1,
+        "flower_ids": [
+            "510"
+        ]
+    },
+    {
+        "group_id": "G269",
+        "genus": "Camellia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "512"
+        ]
+    },
+    {
+        "group_id": "G270",
+        "genus": "Rhododendron",
+        "total_flowers": 1,
+        "flower_ids": [
+            "513"
+        ]
+    },
+    {
+        "group_id": "G271",
+        "genus": "Dietes",
+        "total_flowers": 1,
+        "flower_ids": [
+            "514"
+        ]
+    },
+    {
+        "group_id": "G272",
+        "genus": "Iris",
+        "total_flowers": 1,
+        "flower_ids": [
+            "515"
+        ]
+    },
+    {
+        "group_id": "G273",
+        "genus": "Hyacinthus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "518"
+        ]
+    },
+    {
+        "group_id": "G274",
+        "genus": "Gypsophila",
+        "total_flowers": 1,
+        "flower_ids": [
+            "519"
+        ]
+    },
+    {
+        "group_id": "G275",
+        "genus": "Fuchsia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "525"
+        ]
+    },
+    {
+        "group_id": "G276",
+        "genus": "Paeonia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "526"
+        ]
+    },
+    {
+        "group_id": "G277",
+        "genus": "Vahl",
+        "total_flowers": 1,
+        "flower_ids": [
+            "527"
+        ]
+    },
+    {
+        "group_id": "G278",
+        "genus": "Wisteria",
+        "total_flowers": 1,
+        "flower_ids": [
+            "529"
+        ]
+    },
+    {
+        "group_id": "G279",
+        "genus": "Syringa",
+        "total_flowers": 1,
+        "flower_ids": [
+            "530"
+        ]
+    },
+    {
+        "group_id": "G280",
+        "genus": "Buddleja",
+        "total_flowers": 1,
+        "flower_ids": [
+            "531"
+        ]
+    },
+    {
+        "group_id": "G281",
+        "genus": "Gliricidia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "532"
+        ]
+    },
+    {
+        "group_id": "G282",
+        "genus": "Coriandrum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "534"
+        ]
+    },
+    {
+        "group_id": "G283",
+        "genus": "Anemone",
+        "total_flowers": 1,
+        "flower_ids": [
+            "535"
+        ]
+    },
+    {
+        "group_id": "G284",
+        "genus": "Sambucus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "538"
+        ]
+    },
+    {
+        "group_id": "G285",
+        "genus": "Parkinsonia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "539"
+        ]
+    },
+    {
+        "group_id": "G286",
+        "genus": "Centaurea",
+        "total_flowers": 1,
+        "flower_ids": [
+            "540"
+        ]
+    },
+    {
+        "group_id": "G287",
+        "genus": "Cereus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "560"
+        ]
+    },
+    {
+        "group_id": "G288",
+        "genus": "Cactus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "561"
+        ]
+    },
+    {
+        "group_id": "G289",
+        "genus": "Echinopsis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "562"
+        ]
+    },
+    {
+        "group_id": "G290",
+        "genus": "Selenicereus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "563"
+        ]
+    },
+    {
+        "group_id": "G291",
+        "genus": "Macfadyena",
+        "total_flowers": 1,
+        "flower_ids": [
+            "633"
+        ]
+    },
+    {
+        "group_id": "G292",
+        "genus": "Barringtonia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "634"
+        ]
+    },
+    {
+        "group_id": "G293",
+        "genus": "Butea",
+        "total_flowers": 1,
+        "flower_ids": [
+            "636"
+        ]
+    },
+    {
+        "group_id": "G294",
+        "genus": "Scadoxus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "637"
+        ]
+    },
+    {
+        "group_id": "G295",
+        "genus": "Helichrysum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "638"
+        ]
+    },
+    {
+        "group_id": "G296",
+        "genus": "Cochlospermum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "639"
+        ]
+    },
+    {
+        "group_id": "G297",
+        "genus": "Pterospermum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "640"
+        ]
+    },
+    {
+        "group_id": "G298",
+        "genus": "Anthocephalus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "641"
+        ]
+    },
+    {
+        "group_id": "G299",
+        "genus": "Pyrostegia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "642"
+        ]
+    },
+    {
+        "group_id": "G300",
+        "genus": "Strelitzia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "643"
+        ]
+    },
+    {
+        "group_id": "G301",
+        "genus": "Terminalia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "644"
+        ]
+    },
+    {
+        "group_id": "G302",
+        "genus": "Citharexylum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "648"
+        ]
+    },
+    {
+        "group_id": "G303",
+        "genus": "Azadirachta",
+        "total_flowers": 1,
+        "flower_ids": [
+            "649"
+        ]
+    },
+    {
+        "group_id": "G304",
+        "genus": "Hiptage",
+        "total_flowers": 1,
+        "flower_ids": [
+            "652"
+        ]
+    },
+    {
+        "group_id": "G305",
+        "genus": "Leontopodium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "653"
+        ]
+    },
+    {
+        "group_id": "G306",
+        "genus": "Pelargonium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "654"
+        ]
+    },
+    {
+        "group_id": "G307",
+        "genus": "Pandanus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "657"
+        ]
+    },
+    {
+        "group_id": "G308",
+        "genus": "Vallaris",
+        "total_flowers": 1,
+        "flower_ids": [
+            "659"
+        ]
+    },
+    {
+        "group_id": "G309",
+        "genus": "Holarrhena",
+        "total_flowers": 1,
+        "flower_ids": [
+            "660"
+        ]
+    },
+    {
+        "group_id": "G310",
+        "genus": "Woodson",
+        "total_flowers": 1,
+        "flower_ids": [
+            "666"
+        ]
+    },
+    {
+        "group_id": "G311",
+        "genus": "Chonemorpha",
+        "total_flowers": 1,
+        "flower_ids": [
+            "669"
+        ]
+    },
+    {
+        "group_id": "G312",
+        "genus": "Anabotrys",
+        "total_flowers": 1,
+        "flower_ids": [
+            "673"
+        ]
+    },
+    {
+        "group_id": "G313",
+        "genus": "Artabotrys",
+        "total_flowers": 1,
+        "flower_ids": [
+            "674"
+        ]
+    },
+    {
+        "group_id": "G314",
+        "genus": "Turners",
+        "total_flowers": 1,
+        "flower_ids": [
+            "676"
+        ]
+    },
+    {
+        "group_id": "G315",
+        "genus": "Turnera",
+        "total_flowers": 1,
+        "flower_ids": [
+            "677"
+        ]
+    },
+    {
+        "group_id": "G316",
+        "genus": "Anemopaegma",
+        "total_flowers": 1,
+        "flower_ids": [
+            "682"
+        ]
+    },
+    {
+        "group_id": "G317",
+        "genus": "Lycoris",
+        "total_flowers": 1,
+        "flower_ids": [
+            "683"
+        ]
+    },
+    {
+        "group_id": "G318",
+        "genus": "Crataeva",
+        "total_flowers": 1,
+        "flower_ids": [
+            "684"
+        ]
+    },
+    {
+        "group_id": "G319",
+        "genus": "Trachymene",
+        "total_flowers": 1,
+        "flower_ids": [
+            "685"
+        ]
+    },
+    {
+        "group_id": "G320",
+        "genus": "Castanospermum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "690"
+        ]
+    },
+    {
+        "group_id": "G321",
+        "genus": "Luffa",
+        "total_flowers": 1,
+        "flower_ids": [
+            "691"
+        ]
+    },
+    {
+        "group_id": "G322",
+        "genus": "Tenuiloba",
+        "total_flowers": 1,
+        "flower_ids": [
+            "692"
+        ]
+    },
+    {
+        "group_id": "G323",
+        "genus": "Mussaenda",
+        "total_flowers": 1,
+        "flower_ids": [
+            "693"
+        ]
+    },
+    {
+        "group_id": "G324",
+        "genus": "Tristellateia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "694"
+        ]
+    },
+    {
+        "group_id": "G325",
+        "genus": "Galphimia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "695"
+        ]
+    },
+    {
+        "group_id": "G326",
+        "genus": "Solidago",
+        "total_flowers": 1,
+        "flower_ids": [
+            "696"
+        ]
+    },
+    {
+        "group_id": "G327",
+        "genus": "Melampodium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "697"
+        ]
+    },
+    {
+        "group_id": "G328",
+        "genus": "",
+        "total_flowers": 1,
+        "flower_ids": [
+            "698"
+        ]
+    },
+    {
+        "group_id": "G329",
+        "genus": "Oncoba",
+        "total_flowers": 1,
+        "flower_ids": [
+            "701"
+        ]
+    },
+    {
+        "group_id": "G330",
+        "genus": "Abelmoschus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "702"
+        ]
+    },
+    {
+        "group_id": "G331",
+        "genus": "Cananga",
+        "total_flowers": 1,
+        "flower_ids": [
+            "704"
+        ]
+    },
+    {
+        "group_id": "G332",
+        "genus": "Aglaia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "705"
+        ]
+    },
+    {
+        "group_id": "G333",
+        "genus": "Dendropthoe",
+        "total_flowers": 1,
+        "flower_ids": [
+            "706"
+        ]
+    },
+    {
+        "group_id": "G334",
+        "genus": "Gmelina",
+        "total_flowers": 1,
+        "flower_ids": [
+            "707"
+        ]
+    },
+    {
+        "group_id": "G335",
+        "genus": "Senna",
+        "total_flowers": 1,
+        "flower_ids": [
+            "715"
+        ]
+    },
+    {
+        "group_id": "G336",
+        "genus": "Sanchezia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "717"
+        ]
+    },
+    {
+        "group_id": "G337",
+        "genus": "Gazania",
+        "total_flowers": 1,
+        "flower_ids": [
+            "719"
+        ]
+    },
+    {
+        "group_id": "G338",
+        "genus": "Prosopis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "720"
+        ]
+    },
+    {
+        "group_id": "G339",
+        "genus": "Hoechst",
+        "total_flowers": 1,
+        "flower_ids": [
+            "731"
+        ]
+    },
+    {
+        "group_id": "G340",
+        "genus": "Santaea",
+        "total_flowers": 1,
+        "flower_ids": [
+            "732"
+        ]
+    },
+    {
+        "group_id": "G341",
+        "genus": "Heliotropium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "733"
+        ]
+    },
+    {
+        "group_id": "G342",
+        "genus": "Jacaranda",
+        "total_flowers": 1,
+        "flower_ids": [
+            "734"
+        ]
+    },
+    {
+        "group_id": "G343",
+        "genus": "Ageratum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "740"
+        ]
+    },
+    {
+        "group_id": "G344",
+        "genus": "Murray",
+        "total_flowers": 1,
+        "flower_ids": [
+            "744"
+        ]
+    },
+    {
+        "group_id": "G345",
+        "genus": "Achimenes",
+        "total_flowers": 1,
+        "flower_ids": [
+            "745"
+        ]
+    },
+    {
+        "group_id": "G346",
+        "genus": "Oxalis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "749"
+        ]
+    },
+    {
+        "group_id": "G347",
+        "genus": "Xhybridus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "750"
+        ]
+    },
+    {
+        "group_id": "G348",
+        "genus": "Solenostemon",
+        "total_flowers": 1,
+        "flower_ids": [
+            "754"
+        ]
+    },
+    {
+        "group_id": "G349",
+        "genus": "Stachytarpheta",
+        "total_flowers": 1,
+        "flower_ids": [
+            "755"
+        ]
+    },
+    {
+        "group_id": "G350",
+        "genus": "Rudbeckia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "756"
+        ]
+    },
+    {
+        "group_id": "G351",
+        "genus": "Lochroma",
+        "total_flowers": 1,
+        "flower_ids": [
+            "757"
+        ]
+    },
+    {
+        "group_id": "G352",
+        "genus": "Polygonum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "760"
+        ]
+    },
+    {
+        "group_id": "G353",
+        "genus": "Melia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "765"
+        ]
+    },
+    {
+        "group_id": "G354",
+        "genus": "Brunfekia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "767"
+        ]
+    },
+    {
+        "group_id": "G355",
+        "genus": "Pandorea",
+        "total_flowers": 1,
+        "flower_ids": [
+            "768"
+        ]
+    },
+    {
+        "group_id": "G356",
+        "genus": "Gloxinia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "769"
+        ]
+    },
+    {
+        "group_id": "G357",
+        "genus": "Pseudocalymna",
+        "total_flowers": 1,
+        "flower_ids": [
+            "771"
+        ]
+    },
+    {
+        "group_id": "G358",
+        "genus": "Lagenaria",
+        "total_flowers": 1,
+        "flower_ids": [
+            "772"
+        ]
+    },
+    {
+        "group_id": "G359",
+        "genus": "Codiaeum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "783"
+        ]
+    },
+    {
+        "group_id": "G360",
+        "genus": "Conifers",
+        "total_flowers": 1,
+        "flower_ids": [
+            "784"
+        ]
+    },
+    {
+        "group_id": "G361",
+        "genus": "Areca",
+        "total_flowers": 1,
+        "flower_ids": [
+            "785"
+        ]
+    },
+    {
+        "group_id": "G362",
+        "genus": "Pergularia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "786"
+        ]
+    },
+    {
+        "group_id": "G363",
+        "genus": "Graptophyllum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "788"
+        ]
+    },
+    {
+        "group_id": "G364",
+        "genus": "Talinum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "789"
+        ]
+    },
+    {
+        "group_id": "G365",
+        "genus": "Mimosa",
+        "total_flowers": 1,
+        "flower_ids": [
+            "790"
+        ]
+    },
+    {
+        "group_id": "G366",
+        "genus": "Spathodea",
+        "total_flowers": 1,
+        "flower_ids": [
+            "795"
+        ]
+    },
+    {
+        "group_id": "G367",
+        "genus": "Ochna",
+        "total_flowers": 1,
+        "flower_ids": [
+            "796"
+        ]
+    },
+    {
+        "group_id": "G368",
+        "genus": "Capsicum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "797"
+        ]
+    },
+    {
+        "group_id": "G369",
+        "genus": "Stapelia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "798"
+        ]
+    },
+    {
+        "group_id": "G370",
+        "genus": "Tarenna",
+        "total_flowers": 1,
+        "flower_ids": [
+            "804"
+        ]
+    },
+    {
+        "group_id": "G371",
+        "genus": "Calophyllum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "805"
+        ]
+    },
+    {
+        "group_id": "G372",
+        "genus": "Foeniculum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "807"
+        ]
+    },
+    {
+        "group_id": "G373",
+        "genus": "Anethum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "808"
+        ]
+    },
+    {
+        "group_id": "G374",
+        "genus": "Pimpinella",
+        "total_flowers": 1,
+        "flower_ids": [
+            "809"
+        ]
+    },
+    {
+        "group_id": "G375",
+        "genus": "Guettarda",
+        "total_flowers": 1,
+        "flower_ids": [
+            "810"
+        ]
+    },
+    {
+        "group_id": "G376",
+        "genus": "Pavetta",
+        "total_flowers": 1,
+        "flower_ids": [
+            "812"
+        ]
+    },
+    {
+        "group_id": "G377",
+        "genus": "Morinda",
+        "total_flowers": 1,
+        "flower_ids": [
+            "817"
+        ]
+    },
+    {
+        "group_id": "G378",
+        "genus": "Caladium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "821"
+        ]
+    },
+    {
+        "group_id": "G379",
+        "genus": "Moringa",
+        "total_flowers": 1,
+        "flower_ids": [
+            "825"
+        ]
+    },
+    {
+        "group_id": "G380",
+        "genus": "Dombeya",
+        "total_flowers": 1,
+        "flower_ids": [
+            "826"
+        ]
+    },
+    {
+        "group_id": "G381",
+        "genus": "Thespesia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "827"
+        ]
+    },
+    {
+        "group_id": "G382",
+        "genus": "Calandrinia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "828"
+        ]
+    },
+    {
+        "group_id": "G383",
+        "genus": "Petrea",
+        "total_flowers": 1,
+        "flower_ids": [
+            "829"
+        ]
+    },
+    {
+        "group_id": "G384",
+        "genus": "Aloe",
+        "total_flowers": 1,
+        "flower_ids": [
+            "831"
+        ]
+    },
+    {
+        "group_id": "G385",
+        "genus": "Tecomaria",
+        "total_flowers": 1,
+        "flower_ids": [
+            "832"
+        ]
+    },
+    {
+        "group_id": "G386",
+        "genus": "Pachystachys",
+        "total_flowers": 1,
+        "flower_ids": [
+            "834"
+        ]
+    },
+    {
+        "group_id": "G387",
+        "genus": "Jacq",
+        "total_flowers": 1,
+        "flower_ids": [
+            "841"
+        ]
+    },
+    {
+        "group_id": "G388",
+        "genus": "Calluna",
+        "total_flowers": 1,
+        "flower_ids": [
+            "843"
+        ]
+    },
+    {
+        "group_id": "G389",
+        "genus": "Papaverrhoeas",
+        "total_flowers": 1,
+        "flower_ids": [
+            "844"
+        ]
+    },
+    {
+        "group_id": "G390",
+        "genus": "Trifolium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "845"
+        ]
+    },
+    {
+        "group_id": "G391",
+        "genus": "Callistemon",
+        "total_flowers": 1,
+        "flower_ids": [
+            "850"
+        ]
+    },
+    {
+        "group_id": "G392",
+        "genus": "Cuphea",
+        "total_flowers": 1,
+        "flower_ids": [
+            "851"
+        ]
+    },
+    {
+        "group_id": "G393",
+        "genus": "Stictocardia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "852"
+        ]
+    },
+    {
+        "group_id": "G394",
+        "genus": "Cucurbita",
+        "total_flowers": 1,
+        "flower_ids": [
+            "854"
+        ]
+    },
+    {
+        "group_id": "G395",
+        "genus": "Cocos",
+        "total_flowers": 1,
+        "flower_ids": [
+            "855"
+        ]
+    },
+    {
+        "group_id": "G396",
+        "genus": "Primula",
+        "total_flowers": 1,
+        "flower_ids": [
+            "856"
+        ]
+    },
+    {
+        "group_id": "G397",
+        "genus": "Muntingia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "857"
+        ]
+    },
+    {
+        "group_id": "G398",
+        "genus": "Cyclamen",
+        "total_flowers": 1,
+        "flower_ids": [
+            "858"
+        ]
+    },
+    {
+        "group_id": "G399",
+        "genus": "Physalis",
+        "total_flowers": 1,
+        "flower_ids": [
+            "859"
+        ]
+    },
+    {
+        "group_id": "G400",
+        "genus": "Aganosma",
+        "total_flowers": 1,
+        "flower_ids": [
+            "860"
+        ]
+    },
+    {
+        "group_id": "G401",
+        "genus": "Kalanchoe",
+        "total_flowers": 1,
+        "flower_ids": [
+            "861"
+        ]
+    },
+    {
+        "group_id": "G402",
+        "genus": "Kleinhovia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "862"
+        ]
+    },
+    {
+        "group_id": "G403",
+        "genus": "Haematoxylum",
+        "total_flowers": 1,
+        "flower_ids": [
+            "863"
+        ]
+    },
+    {
+        "group_id": "G404",
+        "genus": "Heliconia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "864"
+        ]
+    },
+    {
+        "group_id": "G405",
+        "genus": "Nierembergia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "865"
+        ]
+    },
+    {
+        "group_id": "G406",
+        "genus": "Tribulus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "866"
+        ]
+    },
+    {
+        "group_id": "G407",
+        "genus": "Dodonaea",
+        "total_flowers": 1,
+        "flower_ids": [
+            "868"
+        ]
+    },
+    {
+        "group_id": "G408",
+        "genus": "Odontonema",
+        "total_flowers": 1,
+        "flower_ids": [
+            "872"
+        ]
+    },
+    {
+        "group_id": "G409",
+        "genus": "Hamelia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "873"
+        ]
+    },
+    {
+        "group_id": "G410",
+        "genus": "Ceiba",
+        "total_flowers": 1,
+        "flower_ids": [
+            "874"
+        ]
+    },
+    {
+        "group_id": "G411",
+        "genus": "Quassia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "875"
+        ]
+    },
+    {
+        "group_id": "G412",
+        "genus": "Salisb",
+        "total_flowers": 1,
+        "flower_ids": [
+            "877"
+        ]
+    },
+    {
+        "group_id": "G413",
+        "genus": "Evolvulus",
+        "total_flowers": 1,
+        "flower_ids": [
+            "891"
+        ]
+    },
+    {
+        "group_id": "G414",
+        "genus": "Ecbolium",
+        "total_flowers": 1,
+        "flower_ids": [
+            "892"
+        ]
+    },
+    {
+        "group_id": "G415",
+        "genus": "Eichhomia",
+        "total_flowers": 1,
+        "flower_ids": [
+            "894"
+        ]
+    }
+]
