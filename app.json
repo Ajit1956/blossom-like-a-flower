@@ -25,7 +25,10 @@
       }
     },
     "android": {
-      "package": "com.workspace.blossomlikeaflower"
+      "package": "com.workspace.blossomlikeaflower",
+      "permissions": [
+        "android.permission.CAMERA"
+      ]
     },
     "extra": {
       "eas": {
