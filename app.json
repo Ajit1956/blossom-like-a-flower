@@ -27,7 +27,8 @@
     "android": {
       "package": "com.workspace.blossomlikeaflower",
       "permissions": [
-        "android.permission.CAMERA"
+        "CAMERA",
+        "RECORD_AUDIO"
       ]
     },
     "extra": {
