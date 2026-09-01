@@ -1,7 +1,6 @@
 {
   "name": "blossom-like-a-flower",
   "version": "1.0.0",
-  "type": "module",
   "scripts": {
     "start": "expo start --go",
     "start:dev": "expo start --dev-client",
